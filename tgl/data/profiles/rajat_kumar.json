@@ -1,0 +1,529 @@
+{
+  "id": "rajat_kumar",
+  "name": "RAJAT KUMAR",
+  "email": "rajat28012006@gmail.com",
+  "phone": "+91 7307801040",
+  "education": "B.Tech \u2014 Computer Science & Engineering",
+  "institution": "JSS Academy of Technical Education, Noida",
+  "cgpa": "7.95/10",
+  "graduation_year": "2028",
+  "linkedin": "linkedin.com/in/rajat281",
+  "github": "github.com/rajatk281",
+  "portfolio": null,
+  "summary": "Full Stack Developer (3rd year B.Tech CSE) with 1+ years of experience building and shipping production-grade web applications. National hackathon winner with participation in 4 national-level hackathons, SIH 2025 finalist, and current Web Developer at Microsoft Mobile Innovation Lab (MMIL), JSSATE Noida. Also completed a Full Stack Development internship at CodeAlpha, building and deploying live full-stack projects. Proficient in the modern TypeScript stack \u2014 Next.js, Node.js, PostgreSQL, Docker \u2014 with hands-on experience in real-time systems, SaaS products, and REST API design.",
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Languages: Python, C++, SQL",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "C++",
+      "category_code": "COD",
+      "evidence": "Languages: Python, C++, SQL",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "SQL",
+      "category_code": "COD",
+      "evidence": "Languages: Python, C++, SQL",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... TensorFlow ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "PyTorch",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... PyTorch ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... Scikit-learn ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "XGBoost",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... XGBoost ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "LightGBM",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... LightGBM ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "CatBoost",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... CatBoost ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Optuna",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... Optuna ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "SHAP",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... SHAP ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Computer Vision (CNNs)",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... Computer Vision (CNNs) ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "NLP",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... NLP ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Reinforcement Learning (Q-learning)",
+      "category_code": "AI",
+      "evidence": "ML / DL: ... Reinforcement Learning (Q-learning) ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "LLMs",
+      "category_code": "AI",
+      "evidence": "Generative & Hybrid AI: LLMs, RAG ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "RAG",
+      "category_code": "AI",
+      "evidence": "Generative & Hybrid AI: LLMs, RAG ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Embeddings",
+      "category_code": "AI",
+      "evidence": "Generative & Hybrid AI: ... Embeddings ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category_code": "AI",
+      "evidence": "Generative & Hybrid AI: ... Vector Databases ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category_code": "AI",
+      "evidence": "Generative & Hybrid AI: ... Prompt Engineering ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Autonomous Agents (Google ADK)",
+      "category_code": "AI",
+      "evidence": "Generative & Hybrid AI: ... Autonomous Agents (Google ADK) ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category_code": "AI",
+      "evidence": "Generative & Hybrid AI: ... Hugging Face Transformers ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "DSL design",
+      "category_code": "AI",
+      "evidence": "Generative & Hybrid AI: ... DSL design ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "BFS",
+      "category_code": "DSA",
+      "evidence": "Built a typed DSL ... BFS program-search solver ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Pandas",
+      "category_code": "OTHER",
+      "evidence": "Data & Engineering: Pandas, NumPy ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "NumPy",
+      "category_code": "OTHER",
+      "evidence": "Data & Engineering: Pandas, NumPy ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Matplotlib",
+      "category_code": "OTHER",
+      "evidence": "Data & Engineering: ... Matplotlib ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "FastAPI",
+      "category_code": "SWE",
+      "evidence": "Data & Engineering: ... FastAPI ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "REST APIs",
+      "category_code": "SWE",
+      "evidence": "Data & Engineering: ... REST APIs ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category_code": "SQL",
+      "evidence": "Data & Engineering: ... PostgreSQL ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Docker",
+      "category_code": "CLOUD",
+      "evidence": "Data & Engineering: ... Docker ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Git/GitHub",
+      "category_code": "SWE",
+      "evidence": "Data & Engineering: ... Git/GitHub ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Linux",
+      "category_code": "OS",
+      "evidence": "Data & Engineering: ... Linux ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "React",
+      "category_code": "SWE",
+      "evidence": "CyberShield AI \u2014 ... React ...",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "TypeScript",
+      "category_code": "COD",
+      "evidence": "Languages: TypeScript",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "JavaScript",
+      "category_code": "COD",
+      "evidence": "Languages: JavaScript (ES2023)",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "React.js",
+      "category_code": "SWE",
+      "evidence": "Frontend: React.js",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Next.js",
+      "category_code": "SWE",
+      "evidence": "Frontend: Next.js 14",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "HTML5",
+      "category_code": "SWE",
+      "evidence": "Frontend: HTML5",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "CSS3",
+      "category_code": "SWE",
+      "evidence": "Frontend: CSS3",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category_code": "SWE",
+      "evidence": "Frontend: Tailwind CSS",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Shadcn UI",
+      "category_code": "SWE",
+      "evidence": "Frontend: Shadcn UI",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "GSAP",
+      "category_code": "SWE",
+      "evidence": "Frontend: GSAP",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Node.js",
+      "category_code": "SWE",
+      "evidence": "Backend: Node.js",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Express.js",
+      "category_code": "SWE",
+      "evidence": "Backend: Express.js",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Hono",
+      "category_code": "SWE",
+      "evidence": "Backend: Hono",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "WebSockets",
+      "category_code": "NETW",
+      "evidence": "Backend: WebSockets",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Socket.IO",
+      "category_code": "NETW",
+      "evidence": "Backend: Socket.IO",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "LiveKit",
+      "category_code": "OTHER",
+      "evidence": "Backend: LiveKit",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "MongoDB",
+      "category_code": "OTHER",
+      "evidence": "Databases & ORMs: MongoDB",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Prisma ORM",
+      "category_code": "SWE",
+      "evidence": "Databases & ORMs: Prisma ORM",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Drizzle ORM",
+      "category_code": "SWE",
+      "evidence": "Databases & ORMs: Drizzle ORM",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Git",
+      "category_code": "SWE",
+      "evidence": "Tools & DevOps: Git",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "GitHub",
+      "category_code": "OTHER",
+      "evidence": "Tools & DevOps: GitHub",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "CI/CD (GitHub Actions)",
+      "category_code": "CLOUD",
+      "evidence": "Tools & DevOps: CI/CD (GitHub Actions)",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Vercel",
+      "category_code": "CLOUD",
+      "evidence": "Tools & DevOps: Vercel",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Render",
+      "category_code": "CLOUD",
+      "evidence": "Tools & DevOps: Render",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "Postman",
+      "category_code": "OTHER",
+      "evidence": "Tools & DevOps: Postman",
+      "confidence": "high",
+      "source": null
+    },
+    {
+      "skill_name": "DSA",
+      "category_code": "DSA",
+      "evidence": "Concepts: DSA",
+      "confidence": "high",
+      "source": null
+    }
+  ],
+  "hackathons": [
+    {
+      "id": "resume_hackathon_1793262525478_0",
+      "title": "Smart India Hackathon 2025",
+      "role_or_project": "AI\u2011Powered Agricultural Supply Chain Platform (CNN crop\u2011disease detection)",
+      "achievement": "Winner",
+      "skills_used": [
+        "CNNs",
+        "Python",
+        "React",
+        "Docker"
+      ],
+      "year": "2025",
+      "link": null
+    },
+    {
+      "id": "resume_hackathon_1793262525478_1",
+      "title": "ARC Prize 2026 (Paper Track)",
+      "role_or_project": "Neurosymbolic Program\u2011Search Solver",
+      "achievement": "Paper Track",
+      "skills_used": [
+        "DSL design",
+        "BFS",
+        "Python",
+        "C++"
+      ],
+      "year": "2026",
+      "link": null
+    },
+    {
+      "id": "resume_hackathon_1793262525478_2",
+      "title": "Kaggle Machine Learning Competitions",
+      "role_or_project": "Competitor (7+ competitions)",
+      "achievement": "Top\u201110% finish in Formula\u202f1 prediction challenge",
+      "skills_used": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "CatBoost",
+        "Optuna"
+      ],
+      "year": "",
+      "link": null
+    }
+  ],
+  "internships": [
+    {
+      "id": "resume_internship_1793262525478_0",
+      "company": "IBM",
+      "role": "AI Intern \u2014 Generative AI",
+      "duration": "Ongoing",
+      "description": "Built and tested LLM\u2011powered components (RAG pipelines, prompt\u2011engineered workflows, agent automations). Implemented retrieval workflows linking vector search to LLM responses and iterated prompt design. Handled data preparation, model/tool integration, and evaluation across the GenAI lifecycle.",
+      "skills_used": [
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "RAG",
+        "Prompt Engineering",
+        "FastAPI",
+        "Docker"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [
+    {
+      "id": "resume_achievement_1793262525478_0",
+      "title": "Smart India Hackathon 2025",
+      "description": "Winner of the national hackathon with an AI\u2011powered agricultural supply chain solution.",
+      "date": "2025"
+    },
+    {
+      "id": "resume_achievement_1793262525478_1",
+      "title": "Hackathon Runner\u2011up",
+      "description": "Two\u2011time hackathon runner\u2011up and three\u2011time finalist across various events.",
+      "date": ""
+    },
+    {
+      "id": "resume_achievement_1793262525478_2",
+      "title": "Codeforces Pupil Rank",
+      "description": "Achieved a maximum rating of 1230 on Codeforces.",
+      "date": ""
+    },
+    {
+      "id": "resume_achievement_1793262525478_3",
+      "title": "IBM AI Internship Selection",
+      "description": "Selected for IBM AI Internship (GenAI) and built 10+ AI/ML repositories.",
+      "date": ""
+    },
+    {
+      "id": "resume_achievement_1793262525478_4",
+      "title": "Open\u2011Source Contribution to PyTorch",
+      "description": "Implemented a C++ fix across three files for PyTorch issue #78842 and completed the contribution workflow.",
+      "date": ""
+    }
+  ],
+  "preferred_roles": [
+    "Full Stack Developer",
+    "Software Engineer"
+  ],
+  "preferred_companies": [],
+  "preferred_mode": "Hybrid",
+  "cv_file": "Rajat_Kumar_Resume (2).pdf",
+  "cv_uploaded_at": "2026-10-29T10:47:17.258Z",
+  "last_updated": "2026-10-29T10:48:55.947005+00:00"
+}

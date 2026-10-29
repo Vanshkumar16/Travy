@@ -1,0 +1,36 @@
+Company: Google LLC
+Role: Software Engineer (SWE)
+Location: Bengaluru, India
+Work Mode: Hybrid
+Experience: 0-2 years
+
+About the job
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information. Our products need to handle information at massive scale, and extend well beyond web search. As a Software Engineer in Bengaluru you will work on a specific project critical to Google's needs, with opportunities to switch teams and projects as you and our fast-paced business grow.
+
+Key Responsibilities
+• Write and test product or system development code that is efficient, readable and maintainable.
+• Design, implement and maintain backend services in C++, Java, Go or Python that serve hundreds of millions of requests per day.
+• Participate in, or lead, design reviews with peers and stakeholders to decide amongst available technologies.
+• Review code developed by other developers and provide feedback to ensure best practices such as style guidelines, accuracy, testability, and efficiency.
+• Triage product or system issues and debug, track, and resolve them by analyzing the sources of issues and their impact on hardware, network, or service operations and quality.
+• Contribute to existing documentation or educational content and adapt it based on product updates and user feedback.
+
+What We're Looking For
+• Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience.
+• Strong proficiency in at least one of C++, Java, Go or Python.
+• Solid foundation in data structures and algorithms, including trees, graphs and dynamic programming, and the ability to reason about time and space complexity.
+• Understanding of operating systems concepts such as processes, threads, concurrency and memory management on Linux.
+• Working knowledge of computer networking fundamentals, including TCP/IP and HTTP.
+• Ability to break down ambiguous problems and communicate your reasoning clearly.
+
+Preferred Qualifications
+• Experience with distributed systems, microservices or large-scale system design.
+• Familiarity with SQL and relational databases.
+• Exposure to cloud platforms such as Google Cloud and containers with Docker or Kubernetes.
+• Experience with unit testing and continuous integration.
+
+About Google
+Google's mission is to organize the world's information and make it universally accessible and useful. Google Cloud, Search, YouTube and Android are used by billions of people. We are proud to be an equal opportunity workplace.
+
+Benefits
+Competitive compensation, health insurance, hybrid work, learning budget and wellness programs.

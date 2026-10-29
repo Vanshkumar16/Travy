@@ -1,0 +1,30 @@
+Company: Microsoft Corporation
+Role: Data Analyst
+Location: Hyderabad, India
+Work Mode: Hybrid
+Experience: 0-2 years
+
+About the role
+The Customer Success Analytics team turns business data into insight for Microsoft's cloud customer operations. As a Data Analyst you will help leaders understand what is happening in the business and why.
+
+What you'll do
+• Write advanced SQL queries, stored procedures and views to transform raw business data into reporting tables.
+• Build and maintain Power BI dashboards and reports used by senior leadership for weekly business reviews.
+• Investigate data discrepancies and work with engineering teams to protect data integrity across pipelines.
+• Track key performance metrics and explain the drivers behind changes to business stakeholders.
+• Automate recurring data cleaning tasks using Python.
+
+What we're looking for
+• Bachelor's degree in Analytics, Computer Science, Economics, Statistics or a related field.
+• Strong proficiency in SQL and data modeling.
+• Hands-on experience with Power BI or Tableau and Microsoft Excel.
+• Introductory Python or R for data analysis.
+• Strong analytical skills and attention to detail.
+• Excellent written and verbal communication and presentation skills.
+
+Nice to have
+• Familiarity with Azure data services and data warehousing.
+• Basic understanding of statistics and A/B testing.
+
+About us
+Microsoft is an equal opportunity employer. We offer hybrid work, health benefits and a culture of learning.

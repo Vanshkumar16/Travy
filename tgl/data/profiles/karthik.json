@@ -1,0 +1,130 @@
+{
+  "id": "karthik",
+  "name": "Karthik Subramaniam",
+  "email": "karthik.subramaniam@example.com",
+  "phone": "+91 97654 32109",
+  "education": "B.Tech in Information Technology & Data Science, 2024, CGPA 8.6 / 10.0",
+  "institution": "Vellore Institute of Technology",
+  "cgpa": "8.6",
+  "graduation_year": "2024",
+  "linkedin": "https://linkedin.com/in/karthik-subramaniam-data",
+  "github": "https://github.com/karthiksubramaniam",
+  "portfolio": "https://karthikdata.me",
+  "summary": "Data-leaning analyst and ML practitioner skilled in predictive modeling, statistical inference, complex SQL pipelines, and BI reporting.",
+  "skills": [
+    {
+      "skill_name": "Python for Data Science",
+      "category_code": "COD",
+      "evidence": "Extensive experience with NumPy, Pandas, Scipy, and production ETL scripts",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Advanced SQL & Database Modeling",
+      "category_code": "SQL",
+      "evidence": "Authored window functions, CTEs, and materialized aggregation views in PostgreSQL and Snowflake",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Machine Learning & Predictive Modeling",
+      "category_code": "AI",
+      "evidence": "Trained XGBoost, LightGBM, and Random Forest models with hyperparameter tuning",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Deep Learning & PyTorch",
+      "category_code": "AI",
+      "evidence": "Built LSTM and Transformer sentiment classification models with PyTorch",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Statistical Analysis & Hypothesis Testing",
+      "category_code": "APTI",
+      "evidence": "Conducted A/B test power analyses and ANOVA evaluations for product launches",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Data Visualization & Dashboards",
+      "category_code": "COMM",
+      "evidence": "Built executive dashboards using Tableau and Streamlit, communicating findings clearly to stakeholders",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Data Structures & Search Algorithms",
+      "category_code": "DSA",
+      "evidence": "Applied heaps, hash maps, and binary search trees for high-speed offline indexing",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Cloud Data Engineering (GCP BigQuery)",
+      "category_code": "CLOUD",
+      "evidence": "Scheduled partitioned BigQuery jobs and managed Google Cloud Storage buckets",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Git & Collaborative Code Review",
+      "category_code": "SWE",
+      "evidence": "Collaborated via pull requests on shared ML feature store repository",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Object-Oriented Python Pipelines",
+      "category_code": "OOD",
+      "evidence": "Refactored raw notebook analysis into reusable modular transformer classes",
+      "confidence": "medium"
+    }
+  ],
+  "hackathons": [
+    {
+      "id": "h3",
+      "title": "National Datathon 2025",
+      "role_or_project": "Customer Churn Prediction Engine",
+      "achievement": "2nd Place Winner (Best Predictive Accuracy)",
+      "skills_used": [
+        "Python",
+        "XGBoost",
+        "SHAP",
+        "FastAPI"
+      ],
+      "year": "2025",
+      "link": "https://github.com/karthiksubramaniam/churn-prediction"
+    }
+  ],
+  "internships": [
+    {
+      "id": "i2",
+      "company": "QuantMetrics Analytics",
+      "role": "Data Analyst Intern",
+      "duration": "Jul 2023 - Dec 2023 (6 months)",
+      "description": "Automated daily KPI reporting pipelines across 14 financial metrics. Reduced query costs by 34% by partitioning database tables.",
+      "skills_used": [
+        "SQL",
+        "Python",
+        "Tableau",
+        "BigQuery"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "c3",
+      "name": "AWS Certified Data Analytics \u2014 Specialty",
+      "issuer": "Amazon Web Services",
+      "issue_date": "Jan 2024",
+      "credential_id_or_url": "AWS-DAS-44910"
+    }
+  ],
+  "preferred_roles": [
+    "Data Scientist",
+    "Data Analyst",
+    "Cloud & DevOps Engineer"
+  ],
+  "preferred_companies": [
+    "Google LLC",
+    "Microsoft Corporation",
+    "Oracle Financial Services Software"
+  ],
+  "preferred_mode": "Hybrid",
+  "cv_file": "karthik_subramaniam_resume.pdf",
+  "cv_uploaded_at": "2026-10-24T15:40:02.277182+00:00",
+  "last_updated": "2026-10-24T15:46:08.976926+00:00"
+}

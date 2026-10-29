@@ -1,0 +1,154 @@
+{
+  "id": "ananya",
+  "name": "Ananya Rao",
+  "email": "ananya.rao@example.com",
+  "phone": "+91 98765 43210",
+  "education": "B.Tech in Computer Science and Engineering, 2024, CGPA 8.9 / 10.0",
+  "institution": "National Institute of Technology",
+  "cgpa": "8.9",
+  "graduation_year": "2024",
+  "linkedin": "https://linkedin.com/in/ananya-rao-systems",
+  "github": "https://github.com/ananyarao",
+  "portfolio": "https://ananyarao.dev",
+  "summary": "Systems-leaning software engineer passionate about distributed systems, networking protocols, and concurrent architectures.",
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category_code": "COD",
+      "evidence": "Implemented custom memory allocators and high-throughput thread pools in C++17",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Go (Golang)",
+      "category_code": "COD",
+      "evidence": "Built microservices for distributed telemetry ingestion handling 40k req/sec",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Data Structures & Tree Algorithms",
+      "category_code": "DSA",
+      "evidence": "Solved 450+ LeetCode problems; expert in B-trees and graph algorithms",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Object-Oriented Design (SOLID)",
+      "category_code": "OOD",
+      "evidence": "Designed extensible event bus pattern adhering strictly to SOLID",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Distributed Systems & Raft Consensus",
+      "category_code": "SYSD",
+      "evidence": "Engineered a fault-tolerant replicated log based on Raft protocol from scratch",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Linux Internals & Concurrency",
+      "category_code": "OS",
+      "evidence": "In-depth understanding of epoll, POSIX threads, and memory paging",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "TCP/IP & Socket Programming",
+      "category_code": "NETW",
+      "evidence": "Developed custom binary TCP framing protocol with checksum verification",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "PostgreSQL & DB Optimization",
+      "category_code": "SQL",
+      "evidence": "Optimized complex query execution plans and index access methods",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Docker & Container Runtime",
+      "category_code": "CLOUD",
+      "evidence": "Built multi-stage Docker builds and debugged container cgroups",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Git & Automated CI/CD",
+      "category_code": "SWE",
+      "evidence": "Designed GitHub Actions pipelines with linting, unit testing, and automated release tags",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Technical Communication",
+      "category_code": "COMM",
+      "evidence": "Authored system architecture decision records (ADRs) and design docs",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Quantitative Problem Solving",
+      "category_code": "APTI",
+      "evidence": "Consistent 99th percentile scorer in competitive mathematical challenges",
+      "confidence": "high"
+    }
+  ],
+  "hackathons": [
+    {
+      "id": "h1",
+      "title": "HackSystem 2024",
+      "role_or_project": "Distributed Raft Key-Value Store",
+      "achievement": "1st Place Winner (Best Systems Architecture)",
+      "skills_used": [
+        "Go",
+        "Distributed Systems",
+        "Raft",
+        "gRPC"
+      ],
+      "year": "2024",
+      "link": "https://github.com/ananyarao/raft-kv"
+    },
+    {
+      "id": "h2",
+      "title": "OpenHack Global",
+      "role_or_project": "High-Performance TCP Load Balancer",
+      "achievement": "Finalist (Top 10 out of 180 teams)",
+      "skills_used": [
+        "C++",
+        "epoll",
+        "TCP/IP",
+        "Linux"
+      ],
+      "year": "2023",
+      "link": "https://github.com/ananyarao/turbo-lb"
+    }
+  ],
+  "internships": [
+    {
+      "id": "i1",
+      "company": "HighLoad Systems Corp",
+      "role": "Systems Engineering Intern",
+      "duration": "Jan 2024 - Jun 2024 (6 months)",
+      "description": "Profiled lock contention in core storage engine using perf, reducing tail latency by 28%. Wrote automated stress test harnesses in Go.",
+      "skills_used": [
+        "C++",
+        "Go",
+        "Linux perf",
+        "System Design"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "c1",
+      "name": "Linux Foundation Certified System Administrator (LFCS)",
+      "issuer": "Linux Foundation",
+      "issue_date": "Nov 2023",
+      "credential_id_or_url": "LFCS-892147-SYS"
+    }
+  ],
+  "preferred_roles": [
+    "Software Engineer (SWE)",
+    "Associate Software Engineer"
+  ],
+  "preferred_companies": [
+    "Google LLC",
+    "Microsoft Corporation"
+  ],
+  "preferred_mode": "Hybrid",
+  "cv_file": "ananya_rao_resume.pdf",
+  "cv_uploaded_at": "2026-10-24T15:40:02.277140+00:00",
+  "last_updated": "2026-10-24T15:40:02.277262+00:00"
+}

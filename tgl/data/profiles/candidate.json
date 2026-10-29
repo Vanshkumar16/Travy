@@ -1,0 +1,316 @@
+{
+  "id": "candidate",
+  "name": "Candidate",
+  "email": "candidate@example.com",
+  "phone": "+91 98765 43210",
+  "education": "B.Tech in Computer Science and Engineering, 2024",
+  "institution": null,
+  "cgpa": "8.5",
+  "graduation_year": "2024",
+  "linkedin": null,
+  "github": null,
+  "portfolio": null,
+  "summary": null,
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Languages: Python, C++, SQL, Bash",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "C++",
+      "category_code": "COD",
+      "evidence": "Languages: Python, C++, SQL, Bash",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Bash",
+      "category_code": "COD",
+      "evidence": "Languages: Python, C++, SQL, Bash",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "SQL",
+      "category_code": "SQL",
+      "evidence": "Languages: Python, C++, SQL, Bash",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category_code": "AI",
+      "evidence": "ML/AI: Machine Learning, Deep Learning, NLP, Computer Vision...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category_code": "AI",
+      "evidence": "ML/AI: Machine Learning, Deep Learning, NLP, Computer Vision...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "NLP",
+      "category_code": "AI",
+      "evidence": "ML/AI: Machine Learning, Deep Learning, NLP, Computer Vision...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category_code": "AI",
+      "evidence": "ML/AI: Machine Learning, Deep Learning, NLP, Computer Vision...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Reinforcement Learning",
+      "category_code": "AI",
+      "evidence": "ML/AI: ... Reinforcement Learning, Feature Engineering...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category_code": "AI",
+      "evidence": "ML/AI: ... Feature Engineering, Model Evaluation",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Model Evaluation",
+      "category_code": "AI",
+      "evidence": "ML/AI: ... Feature Engineering, Model Evaluation",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "LLMs",
+      "category_code": "AI",
+      "evidence": "Generative AI: LLMs, RAG, AI Agents, Prompt Engineering...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "RAG",
+      "category_code": "AI",
+      "evidence": "Generative AI: LLMs, RAG, AI Agents, Prompt Engineering...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "AI Agents",
+      "category_code": "AI",
+      "evidence": "Generative AI: LLMs, RAG, AI Agents, Prompt Engineering...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category_code": "AI",
+      "evidence": "Generative AI: LLMs, RAG, AI Agents, Prompt Engineering...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Embeddings",
+      "category_code": "AI",
+      "evidence": "Generative AI: ... Embeddings, Vector Search, Tool-Calling Workflows",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Vector Search",
+      "category_code": "AI",
+      "evidence": "Generative AI: ... Embeddings, Vector Search, Tool-Calling Workflows",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Tool-Calling Workflows",
+      "category_code": "AI",
+      "evidence": "Generative AI: ... Embeddings, Vector Search, Tool-Calling Workflows",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category_code": "AI",
+      "evidence": "Frameworks: PyTorch, TensorFlow, Scikit-learn, Hugging Face...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category_code": "AI",
+      "evidence": "Frameworks: PyTorch, TensorFlow, Scikit-learn, Hugging Face...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category_code": "AI",
+      "evidence": "Frameworks: PyTorch, TensorFlow, Scikit-learn, Hugging Face...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category_code": "AI",
+      "evidence": "Frameworks: PyTorch, TensorFlow, Scikit-learn, Hugging Face...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "LangChain",
+      "category_code": "AI",
+      "evidence": "Frameworks: ... LangChain, Gymnasium, Stable-Baselines3",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Gymnasium",
+      "category_code": "AI",
+      "evidence": "Frameworks: ... LangChain, Gymnasium, Stable-Baselines3",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Stable-Baselines3",
+      "category_code": "AI",
+      "evidence": "Frameworks: ... LangChain, Gymnasium, Stable-Baselines3",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "MLflow",
+      "category_code": "AI",
+      "evidence": "AI/Data Infrastructure: MLflow, FAISS, Redis, PostgreSQL...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "FAISS",
+      "category_code": "AI",
+      "evidence": "AI/Data Infrastructure: MLflow, FAISS, Redis, PostgreSQL...",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Redis",
+      "category_code": "OTHER",
+      "evidence": "AI/Data Infrastructure: ... Redis, PostgreSQL, FastAPI, Celery",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category_code": "SQL",
+      "evidence": "AI/Data Infrastructure: ... Redis, PostgreSQL, FastAPI, Celery",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category_code": "SWE",
+      "evidence": "AI/Data Infrastructure: ... FastAPI, Celery",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Celery",
+      "category_code": "SWE",
+      "evidence": "AI/Data Infrastructure: ... FastAPI, Celery",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Git",
+      "category_code": "SWE",
+      "evidence": "Engineering: Git, GitHub, Docker, Linux, REST APIs",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "GitHub",
+      "category_code": "SWE",
+      "evidence": "Engineering: Git, GitHub, Docker, Linux, REST APIs",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Docker",
+      "category_code": "CLOUD",
+      "evidence": "Engineering: Git, GitHub, Docker, Linux, REST APIs",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Linux",
+      "category_code": "OS",
+      "evidence": "Engineering: Git, GitHub, Docker, Linux, REST APIs",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category_code": "SWE",
+      "evidence": "Engineering: Git, GitHub, Docker, Linux, REST APIs",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Data structures & algorithms",
+      "category_code": "DSA",
+      "evidence": "Codeforces Rating: 900+ with DSA/problem-solving experience.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "DSA",
+      "category_code": "DSA",
+      "evidence": "Codeforces Rating: 900+ with DSA/problem-solving experience.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category_code": "AI",
+      "evidence": "Applied XGBoost",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category_code": "AI",
+      "evidence": "Applied LightGBM",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Ensemble Methods",
+      "category_code": "AI",
+      "evidence": "ensemble methods",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Hyperparameter Optimization",
+      "category_code": "AI",
+      "evidence": "hyperparameter optimization",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Knowledge Graphs",
+      "category_code": "AI",
+      "evidence": "knowledge-graph techniques",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category_code": "AI",
+      "evidence": "AI/ML: Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning, LLMs, RAG\u2026",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category_code": "AI",
+      "evidence": "Frameworks/Tools: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, NumPy, Pandas, Matplotlib\u2026",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "NumPy",
+      "category_code": "AI",
+      "evidence": "Frameworks/Tools: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, NumPy, Pandas, Matplotlib\u2026",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Pandas",
+      "category_code": "AI",
+      "evidence": "Frameworks/Tools: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, NumPy, Pandas, Matplotlib\u2026",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Matplotlib",
+      "category_code": "AI",
+      "evidence": "Frameworks/Tools: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, NumPy, Pandas, Matplotlib\u2026",
+      "confidence": "high"
+    }
+  ],
+  "hackathons": [],
+  "internships": [],
+  "certifications": [],
+  "preferred_roles": [
+    "Full Stack Developer",
+    "Software Engineer"
+  ],
+  "preferred_companies": [],
+  "preferred_mode": "Hybrid",
+  "cv_file": "Vansh_Kumar_Resume.docx",
+  "cv_uploaded_at": "2026-10-29T05:34:58.907Z",
+  "last_updated": "2026-10-29T05:35:25.451623+00:00"
+}

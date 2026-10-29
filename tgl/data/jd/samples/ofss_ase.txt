@@ -1,0 +1,31 @@
+Company: Oracle Financial Services Software
+Role: Associate Software Engineer
+Location: Bengaluru / Mumbai, India
+Work Mode: Onsite
+Experience: Freshers (0-1 years)
+
+Job Description
+Oracle Financial Services Software builds core banking and financial technology products used by leading banks in more than 140 countries. As an Associate Software Engineer you will join a product team building mission-critical banking applications.
+
+Key Responsibilities
+• Develop and maintain enterprise Java components for financial transaction processing.
+• Write and optimize Oracle SQL and PL/SQL queries, stored procedures and triggers, with attention to ACID transactional integrity.
+• Apply object-oriented principles and design patterns to build maintainable modules.
+• Write unit tests with JUnit and support integration testing across banking product modules.
+• Debug issues reported by QA and customers and fix them within release timelines.
+• Document your code and collaborate with team members in an agile environment.
+
+Qualifications
+• B.E./B.Tech or MCA in Computer Science, IT or a related branch with strong academic record.
+• Proficiency in Core Java and object-oriented programming concepts.
+• Good understanding of SQL and relational databases.
+• Basic knowledge of data structures and algorithms.
+• Basic understanding of Linux environments.
+• Good communication skills and willingness to learn the banking domain.
+
+Good to have
+• Exposure to Spring Boot and REST web services.
+• Knowledge of Git.
+
+About Oracle Financial Services
+Oracle FSS is a world leader in providing IT solutions to the financial services industry. We are an equal opportunity employer.

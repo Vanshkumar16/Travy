@@ -1,0 +1,4888 @@
+{
+  "source": "Supabase staging_company_skill_levels",
+  "total_companies": 116,
+  "companies": {
+    "accenture": {
+      "id": 1,
+      "company_id": "accenture",
+      "name": "Accenture plc",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 5,
+        "SYSD": 3,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "5 - AP",
+        "SYSD": "3-CU",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on COD (5/10), APTI (5/10), COMM (5/10) across verified competency levels."
+    },
+    "fractal-analytics": {
+      "id": 2,
+      "company_id": "fractal-analytics",
+      "name": "Fractal Analytics Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 6,
+        "SYSD": 6,
+        "NETW": 2,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "6-AS",
+        "OOD": "4-AS",
+        "APTI": "6-AS",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "6-AP",
+        "SQL": "6-AS",
+        "SWE": "6 - AS",
+        "SYSD": "6-AS",
+        "NETW": "2-AP",
+        "OS": "3-AP"
+      },
+      "description": "Hiring standard focuses on COD (6/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "oracle-india": {
+      "id": 3,
+      "company_id": "oracle-india",
+      "name": "Oracle India Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 7,
+        "DSA": 6,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 5,
+        "CLOUD": 5,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 5,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "7-EV",
+        "DSA": "6-AP",
+        "OOD": "6-EV",
+        "APTI": "6-AP",
+        "COMM": "6-AS",
+        "AI": "5-AP",
+        "CLOUD": "5-CU",
+        "SQL": "6-AP",
+        "SWE": "7 - AS",
+        "SYSD": "5-AP",
+        "NETW": "5-AS",
+        "OS": "6-AS"
+      },
+      "description": "Hiring standard focuses on COD (7/10), SWE (7/10), DSA (6/10) across verified competency levels."
+    },
+    "google": {
+      "id": 4,
+      "company_id": "google",
+      "name": "Google LLC (Subsidiary of Alphabet Inc.)",
+      "locations": [
+        "Bengaluru, India (Hybrid)",
+        "Hyderabad, India"
+      ],
+      "roles": [
+        "Software Engineer (SWE)",
+        "Data Scientist",
+        "Systems Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 8,
+        "DSA": 9,
+        "OOD": 8,
+        "APTI": 9,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 9,
+        "SQL": 8,
+        "SWE": 9,
+        "SYSD": 4,
+        "NETW": 9,
+        "OS": 9
+      },
+      "skill_levels": {
+        "COD": "8-CR",
+        "DSA": "9-CR",
+        "OOD": "8-CR",
+        "APTI": "9-CR",
+        "COMM": "7-EV",
+        "AI": "7-EV",
+        "CLOUD": "9-EV",
+        "SQL": "8-EV",
+        "SWE": "9 - EV",
+        "SYSD": "4-AS",
+        "NETW": "9-CR",
+        "OS": "9-CR"
+      },
+      "description": "High bar in algorithmic problem solving (DSA 9/10), deep systems/OS, networking, and scalable architecture."
+    },
+    "apple": {
+      "id": 5,
+      "company_id": "apple",
+      "name": "Apple Inc.",
+      "locations": [
+        "Bengaluru, India",
+        "Hyderabad, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Hardware-Software Systems Engineer",
+        "AI/ML Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 8,
+        "DSA": 8,
+        "OOD": 8,
+        "APTI": 8,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 7,
+        "SQL": 7,
+        "SWE": 9,
+        "SYSD": 5,
+        "NETW": 8,
+        "OS": 10
+      },
+      "skill_levels": {
+        "COD": "8-CR",
+        "DSA": "8-EV",
+        "OOD": "8-CR",
+        "APTI": "8-EV",
+        "COMM": "7-EV",
+        "AI": "8-EV",
+        "CLOUD": "7-AS",
+        "SQL": "7-EV",
+        "SWE": "9 - EV",
+        "SYSD": "5-EV",
+        "NETW": "8-EV",
+        "OS": "10-EV"
+      },
+      "description": "Hiring standard focuses on OS (10/10), SWE (9/10), COD (8/10) across verified competency levels."
+    },
+    "mitsubishi-ufj-financial": {
+      "id": 6,
+      "company_id": "mitsubishi-ufj-financial",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 6,
+        "AI": 5,
+        "CLOUD": 3,
+        "SQL": 5,
+        "SWE": 6,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "4-AP",
+        "COMM": "6-AS",
+        "AI": "5-AS",
+        "CLOUD": "3-CU",
+        "SQL": "5-AS",
+        "SWE": "6 - AP",
+        "SYSD": "6-CR",
+        "NETW": "4-CU",
+        "OS": "4-CU"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), SWE (6/10), SYSD (6/10) across verified competency levels."
+    },
+    "commonwealth-bank-of": {
+      "id": 7,
+      "company_id": "commonwealth-bank-of",
+      "name": "Commonwealth Bank of Australia",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "5-AS",
+        "OOD": "3-AP",
+        "APTI": "4-AP",
+        "COMM": "6-EV",
+        "AI": "6-AS",
+        "CLOUD": "6-AS",
+        "SQL": "7-AS",
+        "SWE": "7 - AS",
+        "SYSD": "5-EV",
+        "NETW": "5-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on SQL (7/10), SWE (7/10), COMM (6/10) across verified competency levels."
+    },
+    "kalvi-career-education": {
+      "id": 8,
+      "company_id": "kalvi-career-education",
+      "name": "KALVI CAREER EDUCATION PRIVATE LIMITED",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 3,
+        "OOD": 2,
+        "APTI": 3,
+        "COMM": 4,
+        "AI": 3,
+        "CLOUD": 2,
+        "SQL": 3,
+        "SWE": 3,
+        "SYSD": 1,
+        "NETW": 3,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "3-CU",
+        "OOD": "2-CU",
+        "APTI": "3-CU",
+        "COMM": "4-AP",
+        "AI": "3-CU",
+        "CLOUD": "2-CU",
+        "SQL": "3-AP",
+        "SWE": "3 - CU",
+        "SYSD": "1-CU",
+        "NETW": "3-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on COD (4/10), COMM (4/10), DSA (3/10) across verified competency levels."
+    },
+    "larsen-toubro-infotech": {
+      "id": 9,
+      "company_id": "larsen-toubro-infotech",
+      "name": "Larsen & Toubro Infotech Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 5,
+        "SYSD": 2,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "4-AS",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-AP",
+        "SQL": "5-CU",
+        "SWE": "5 - AP",
+        "SYSD": "2-CU",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on DSA (5/10), APTI (5/10), COMM (5/10) across verified competency levels."
+    },
+    "tata-consultancy-services": {
+      "id": 10,
+      "company_id": "tata-consultancy-services",
+      "name": "Tata Consultancy Services Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 3,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 4,
+        "SYSD": 3,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "3-AP",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "4 - AP",
+        "SYSD": "3-AP",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on APTI (5/10), COMM (5/10), COD (4/10) across verified competency levels."
+    },
+    "infosys": {
+      "id": 11,
+      "company_id": "infosys",
+      "name": "Infosys Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 3,
+        "CLOUD": 4,
+        "SQL": 3,
+        "SWE": 4,
+        "SYSD": 2,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "3-AP",
+        "CLOUD": "4-CU",
+        "SQL": "3-CU",
+        "SWE": "4 - AP",
+        "SYSD": "2-CU",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on DSA (5/10), APTI (5/10), COMM (5/10) across verified competency levels."
+    },
+    "cloudera-data-platform": {
+      "id": 12,
+      "company_id": "cloudera-data-platform",
+      "name": "Cloudera Data Platform India Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 7,
+        "NETW": 6,
+        "OS": 7
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-AS",
+        "OOD": "5-EV",
+        "APTI": "6-AS",
+        "COMM": "7-AS",
+        "AI": "7-AS",
+        "CLOUD": "6-AP",
+        "SQL": "7-AS",
+        "SWE": "8 - AS",
+        "SYSD": "7-EV",
+        "NETW": "6-AS",
+        "OS": "7-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), COMM (7/10) across verified competency levels."
+    },
+    "guidewire-software": {
+      "id": 13,
+      "company_id": "guidewire-software",
+      "name": "Guidewire Software, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AS",
+        "OOD": "6-AS",
+        "APTI": "6-AS",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "5-AS",
+        "SQL": "5-AP",
+        "SWE": "7 - AS",
+        "SYSD": "6-CR",
+        "NETW": "4-AP",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), OOD (6/10) across verified competency levels."
+    },
+    "amazon": {
+      "id": 14,
+      "company_id": "amazon",
+      "name": "Amazon.com, Inc.",
+      "locations": [
+        "Bengaluru, India",
+        "Hyderabad, India",
+        "Chennai, India"
+      ],
+      "roles": [
+        "Software Development Engineer (SDE)",
+        "Cloud Support Engineer",
+        "Data Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 9,
+        "OOD": 8,
+        "APTI": 9,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 8,
+        "SWE": 9,
+        "SYSD": 5,
+        "NETW": 7,
+        "OS": 8
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "9-EV",
+        "OOD": "8-CR",
+        "APTI": "9-CR",
+        "COMM": "7-EV",
+        "AI": "7-EV",
+        "CLOUD": "6-EV",
+        "SQL": "8-EV",
+        "SWE": "9 - EV",
+        "SYSD": "5-AS",
+        "NETW": "7-EV",
+        "OS": "8-EV"
+      },
+      "description": "Hiring standard focuses on DSA (9/10), APTI (9/10), SWE (9/10) across verified competency levels."
+    },
+    "llama-logisol": {
+      "id": 15,
+      "company_id": "llama-logisol",
+      "name": "Llama Logisol Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 3,
+        "DSA": 3,
+        "OOD": 2,
+        "APTI": 4,
+        "COMM": 4,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 5,
+        "SYSD": 1,
+        "NETW": 4,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "3-AP",
+        "DSA": "3-AP",
+        "OOD": "2-CU",
+        "APTI": "4-AP",
+        "COMM": "4-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-AP",
+        "SQL": "4-AP",
+        "SWE": "5 - AP",
+        "SYSD": "1-CU",
+        "NETW": "4-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on SWE (5/10), OS (5/10), APTI (4/10) across verified competency levels."
+    },
+    "swiggy": {
+      "id": 16,
+      "company_id": "swiggy",
+      "name": "Swiggy Limited",
+      "locations": [
+        "Bengaluru, India"
+      ],
+      "roles": [
+        "Backend SDE",
+        "Data Scientist",
+        "Platform Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 5,
+        "APTI": 7,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-AS",
+        "OOD": "5-EV",
+        "APTI": "7-AS",
+        "COMM": "6-EV",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-AS",
+        "SWE": "8 - EV",
+        "SYSD": "6-CR",
+        "NETW": "4-AS",
+        "OS": "6-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), APTI (7/10) across verified competency levels."
+    },
+    "leap-finance": {
+      "id": 17,
+      "company_id": "leap-finance",
+      "name": "Leap Finance Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 6,
+        "AI": 5,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 6,
+        "SYSD": 3,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AS",
+        "DSA": "5-AP",
+        "OOD": "3-AS",
+        "APTI": "4-AP",
+        "COMM": "6-AS",
+        "AI": "5-AS",
+        "CLOUD": "5-AP",
+        "SQL": "5-AP",
+        "SWE": "6 - AS",
+        "SYSD": "3-AP",
+        "NETW": "3-AP",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), SWE (6/10), DSA (5/10) across verified competency levels."
+    },
+    "cisco-systems": {
+      "id": 18,
+      "company_id": "cisco-systems",
+      "name": "Cisco Systems, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 7,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 6,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "7-EV",
+        "OOD": "7-EV",
+        "APTI": "7-AS",
+        "COMM": "7-AS",
+        "AI": "7-AS",
+        "CLOUD": "5-AS",
+        "SQL": "6-AS",
+        "SWE": "8 - AS",
+        "SYSD": "6-EV",
+        "NETW": "6-EV",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), OOD (7/10) across verified competency levels."
+    },
+    "volvo-group": {
+      "id": 19,
+      "company_id": "volvo-group",
+      "name": "Volvo Group",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 6,
+        "SYSD": 6,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "5-AS",
+        "OOD": "3-AP",
+        "APTI": "4-AP",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "6 - AP",
+        "SYSD": "6-EV",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), AI (6/10), SWE (6/10) across verified competency levels."
+    },
+    "amadeus-it-group": {
+      "id": 20,
+      "company_id": "amadeus-it-group",
+      "name": "Amadeus IT Group",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AP",
+        "OOD": "5-AS",
+        "APTI": "6-AS",
+        "COMM": "7-EV",
+        "AI": "7-EV",
+        "CLOUD": "5-AP",
+        "SQL": "6-AP",
+        "SWE": "8 - AS",
+        "SYSD": "5-AS",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), COMM (7/10), AI (7/10) across verified competency levels."
+    },
+    "nielseniq": {
+      "id": 21,
+      "company_id": "nielseniq",
+      "name": "NielsenIQ",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 4,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "4-AS",
+        "APTI": "6-AS",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "4-CU",
+        "SQL": "6-AS",
+        "SWE": "7 - AS",
+        "SYSD": "4-AP",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "snowflake": {
+      "id": 22,
+      "company_id": "snowflake",
+      "name": "Snowflake Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 8,
+        "OOD": 7,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 7,
+        "SQL": 9,
+        "SWE": 9,
+        "SYSD": 7,
+        "NETW": 7,
+        "OS": 8
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "8-AS",
+        "OOD": "7-CR",
+        "APTI": "7-EV",
+        "COMM": "7-EV",
+        "AI": "8-EV",
+        "CLOUD": "7-AS",
+        "SQL": "9-EV",
+        "SWE": "9 - EV",
+        "SYSD": "7-EV",
+        "NETW": "7-AS",
+        "OS": "8-AS"
+      },
+      "description": "Hiring standard focuses on SQL (9/10), SWE (9/10), DSA (8/10) across verified competency levels."
+    },
+    "palantir": {
+      "id": 23,
+      "company_id": "palantir",
+      "name": "Palantir Technologies",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 7,
+        "DSA": 9,
+        "OOD": 8,
+        "APTI": 9,
+        "COMM": 8,
+        "AI": 8,
+        "CLOUD": 9,
+        "SQL": 8,
+        "SWE": 9,
+        "SYSD": 8,
+        "NETW": 8,
+        "OS": 9
+      },
+      "skill_levels": {
+        "COD": "7-EV",
+        "DSA": "9-CR",
+        "OOD": "8-CR",
+        "APTI": "9-CR",
+        "COMM": "8-EV",
+        "AI": "8-CR",
+        "CLOUD": "9-EV",
+        "SQL": "8-CR",
+        "SWE": "9 - CR",
+        "SYSD": "8-CR",
+        "NETW": "8-CR",
+        "OS": "9-EV"
+      },
+      "description": "Hiring standard focuses on DSA (9/10), APTI (9/10), CLOUD (9/10) across verified competency levels."
+    },
+    "oracle": {
+      "id": 24,
+      "company_id": "oracle",
+      "name": "Oracle Financial Services Software Limited",
+      "locations": [
+        "Bengaluru, India",
+        "Mumbai, India",
+        "Chennai, India"
+      ],
+      "roles": [
+        "Associate Software Engineer",
+        "Application Support Analyst",
+        "Financial Tech Consultant"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AP",
+        "OOD": "6-EV",
+        "APTI": "6-AP",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "5-AP",
+        "SQL": "6-AP",
+        "SWE": "7 - AS",
+        "SYSD": "5-CR",
+        "NETW": "5-AP",
+        "OS": "5-AP"
+      },
+      "description": "Strong emphasis on relational SQL integrity, enterprise Java/OOP, client communication, and support triage."
+    },
+    "international-business-machines": {
+      "id": 25,
+      "company_id": "international-business-machines",
+      "name": "International Business Machines Corporation",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 8,
+        "OOD": 7,
+        "APTI": 7,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "8-EV",
+        "OOD": "7-AS",
+        "APTI": "7-EV",
+        "COMM": "6-AS",
+        "AI": "7-AS",
+        "CLOUD": "5-CU",
+        "SQL": "5-CU",
+        "SWE": "8 - AS",
+        "SYSD": "6-AS",
+        "NETW": "4-CU",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on DSA (8/10), SWE (8/10), OOD (7/10) across verified competency levels."
+    },
+    "barclays": {
+      "id": 26,
+      "company_id": "barclays",
+      "name": "Barclays PLC",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "4-EV",
+        "APTI": "6-AS",
+        "COMM": "7-EV",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-AS",
+        "SWE": "7 - AS",
+        "SYSD": "5-EV",
+        "NETW": "4-AS",
+        "OS": "4-CU"
+      },
+      "description": "Hiring standard focuses on COMM (7/10), SQL (7/10), SWE (7/10) across verified competency levels."
+    },
+    "schneider-electric": {
+      "id": 27,
+      "company_id": "schneider-electric",
+      "name": "Schneider Electric",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 5,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 6,
+        "SYSD": 4,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "5-AP",
+        "OOD": "4-AS",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "5-AS",
+        "CLOUD": "4-AP",
+        "SQL": "4-AP",
+        "SWE": "6 - AP",
+        "SYSD": "4-AS",
+        "NETW": "5-AP",
+        "OS": "5-AP"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), SWE (6/10), COD (5/10) across verified competency levels."
+    },
+    "blink-commerce": {
+      "id": 28,
+      "company_id": "blink-commerce",
+      "name": "Blink Commerce Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 4,
+        "AI": 5,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 5,
+        "SYSD": 3,
+        "NETW": 4,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "4-AP",
+        "AI": "5-AP",
+        "CLOUD": "6-AP",
+        "SQL": "6-AS",
+        "SWE": "5 - AP",
+        "SYSD": "3-AP",
+        "NETW": "4-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on CLOUD (6/10), SQL (6/10), DSA (5/10) across verified competency levels."
+    },
+    "zerodha": {
+      "id": 29,
+      "company_id": "zerodha",
+      "name": "Zerodha Broking Limited",
+      "locations": [
+        "Bengaluru, India"
+      ],
+      "roles": [
+        "Systems Engineer",
+        "Full Stack Developer",
+        "Financial Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 8,
+        "SQL": 8,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 5,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-AS",
+        "OOD": "6-AS",
+        "APTI": "6-AS",
+        "COMM": "7-EV",
+        "AI": "6-EV",
+        "CLOUD": "8-EV",
+        "SQL": "8-EV",
+        "SWE": "8 - EV",
+        "SYSD": "6-CR",
+        "NETW": "5-EV",
+        "OS": "6-EV"
+      },
+      "description": "Hiring standard focuses on CLOUD (8/10), SQL (8/10), SWE (8/10) across verified competency levels."
+    },
+    "myntra-designs": {
+      "id": 30,
+      "company_id": "myntra-designs",
+      "name": "Myntra Designs Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 7,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "7-AP",
+        "OOD": "5-EV",
+        "APTI": "6-AS",
+        "COMM": "6-EV",
+        "AI": "6-EV",
+        "CLOUD": "7-AS",
+        "SQL": "7-AP",
+        "SWE": "8 - EV",
+        "SYSD": "5-EV",
+        "NETW": "4-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), CLOUD (7/10) across verified competency levels."
+    },
+    "nurix-therapeutics": {
+      "id": 31,
+      "company_id": "nurix-therapeutics",
+      "name": "Nurix Therapeutics, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 6,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 3,
+        "SQL": 3,
+        "SWE": 7,
+        "SYSD": 4,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "6-AS",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "7-EV",
+        "CLOUD": "3-CU",
+        "SQL": "3-AP",
+        "SWE": "7 - AS",
+        "SYSD": "4-AP",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on AI (7/10), SWE (7/10), COD (6/10) across verified competency levels."
+    },
+    "citigroup": {
+      "id": 32,
+      "company_id": "citigroup",
+      "name": "Citigroup Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AS",
+        "OOD": "4-EV",
+        "APTI": "6-AS",
+        "COMM": "7-EV",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-AS",
+        "SWE": "7 - AS",
+        "SYSD": "6-EV",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on COMM (7/10), SQL (7/10), SWE (7/10) across verified competency levels."
+    },
+    "zs-associates": {
+      "id": 33,
+      "company_id": "zs-associates",
+      "name": "ZS Associates, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 6,
+        "SWE": 6,
+        "SYSD": 5,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AP",
+        "OOD": "5-AS",
+        "APTI": "6-AS",
+        "COMM": "7-AS",
+        "AI": "6-AS",
+        "CLOUD": "4-AP",
+        "SQL": "6-AP",
+        "SWE": "6 - AS",
+        "SYSD": "5-AS",
+        "NETW": "3-AP",
+        "OS": "3-AP"
+      },
+      "description": "Hiring standard focuses on COMM (7/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "flam-gaming": {
+      "id": 34,
+      "company_id": "flam-gaming",
+      "name": "FLAM Gaming Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 4,
+        "AI": 5,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 5,
+        "SYSD": 2,
+        "NETW": 4,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "4-AP",
+        "AI": "5-AP",
+        "CLOUD": "4-CU",
+        "SQL": "5-AP",
+        "SWE": "5 - AP",
+        "SYSD": "2-CU",
+        "NETW": "4-AP",
+        "OS": "6-AP"
+      },
+      "description": "Hiring standard focuses on OS (6/10), DSA (5/10), APTI (5/10) across verified competency levels."
+    },
+    "sap-labs-india": {
+      "id": 35,
+      "company_id": "sap-labs-india",
+      "name": "SAP Labs India Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "7-AP",
+        "OOD": "6-EV",
+        "APTI": "6-AP",
+        "COMM": "7-AS",
+        "AI": "7-AS",
+        "CLOUD": "6-AP",
+        "SQL": "6-AS",
+        "SWE": "8 - AS",
+        "SYSD": "6-CR",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), COMM (7/10) across verified competency levels."
+    },
+    "xperi": {
+      "id": 36,
+      "company_id": "xperi",
+      "name": "Xperi Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "5-AS",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "5-AP",
+        "SQL": "5-CU",
+        "SWE": "7 - AS",
+        "SYSD": "5-EV",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), COMM (6/10) across verified competency levels."
+    },
+    "consilio": {
+      "id": 37,
+      "company_id": "consilio",
+      "name": "Consilio LLC",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 5,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 6,
+        "SYSD": 3,
+        "NETW": 4,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "5-AS",
+        "CLOUD": "4-CU",
+        "SQL": "4-AP",
+        "SWE": "6 - AP",
+        "SYSD": "3-AP",
+        "NETW": "4-AP",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), SWE (6/10), DSA (5/10) across verified competency levels."
+    },
+    "bt-group": {
+      "id": 38,
+      "company_id": "bt-group",
+      "name": "BT Group plc",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 6,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "6-AP",
+        "OOD": "4-AS",
+        "APTI": "6-AP",
+        "COMM": "6-EV",
+        "AI": "6-AS",
+        "CLOUD": "5-AS",
+        "SQL": "6-CU",
+        "SWE": "7 - AS",
+        "SYSD": "5-AS",
+        "NETW": "6-EV",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), COD (6/10), DSA (6/10) across verified competency levels."
+    },
+    "capgemini": {
+      "id": 39,
+      "company_id": "capgemini",
+      "name": "Capgemini",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 3,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 4,
+        "SYSD": 4,
+        "NETW": 2,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "3-AP",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "4 - AP",
+        "SYSD": "4-AP",
+        "NETW": "2-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on APTI (5/10), COMM (5/10), COD (4/10) across verified competency levels."
+    },
+    "the-bank-of": {
+      "id": 40,
+      "company_id": "the-bank-of",
+      "name": "The Bank of New York Mellon Corporation",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AS",
+        "OOD": "4-EV",
+        "APTI": "6-AS",
+        "COMM": "7-EV",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-EV",
+        "SWE": "8 - AS",
+        "SYSD": "6-EV",
+        "NETW": "5-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), COMM (7/10), SQL (7/10) across verified competency levels."
+    },
+    "fidelity-investments": {
+      "id": 41,
+      "company_id": "fidelity-investments",
+      "name": "Fidelity Investments",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-EV",
+        "OOD": "4-AS",
+        "APTI": "6-AS",
+        "COMM": "7-AS",
+        "AI": "6-EV",
+        "CLOUD": "4-AP",
+        "SQL": "5-AP",
+        "SWE": "7 - AS",
+        "SYSD": "5-AS",
+        "NETW": "4-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on COMM (7/10), SWE (7/10), DSA (6/10) across verified competency levels."
+    },
+    "jpmorgan-chase": {
+      "id": 42,
+      "company_id": "jpmorgan-chase",
+      "name": "JPMorgan Chase & Co.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 7,
+        "OOD": 5,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 3,
+        "SQL": 4,
+        "SWE": 8,
+        "SYSD": 7,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "7-EV",
+        "OOD": "5-EV",
+        "APTI": "7-EV",
+        "COMM": "7-EV",
+        "AI": "7-EV",
+        "CLOUD": "3-CU",
+        "SQL": "4-CU",
+        "SWE": "8 - AS",
+        "SYSD": "7-EV",
+        "NETW": "5-EV",
+        "OS": "5-EV"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), APTI (7/10) across verified competency levels."
+    },
+    "airbus": {
+      "id": 43,
+      "company_id": "airbus",
+      "name": "Airbus SE",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 5,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 5,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "5-AS",
+        "OOD": "5-AS",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "7-AS",
+        "CLOUD": "5-AS",
+        "SQL": "5-AS",
+        "SWE": "7 - AS",
+        "SYSD": "6-CR",
+        "NETW": "5-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on AI (7/10), SWE (7/10), COMM (6/10) across verified competency levels."
+    },
+    "wells-fargo-company": {
+      "id": 44,
+      "company_id": "wells-fargo-company",
+      "name": "Wells Fargo & Company",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AS",
+        "OOD": "4-EV",
+        "APTI": "6-AS",
+        "COMM": "7-EV",
+        "AI": "6-EV",
+        "CLOUD": "4-CU",
+        "SQL": "5-AP",
+        "SWE": "7 - AP",
+        "SYSD": "6-EV",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on COMM (7/10), SWE (7/10), DSA (6/10) across verified competency levels."
+    },
+    "atlassian": {
+      "id": 45,
+      "company_id": "atlassian",
+      "name": "Atlassian Corporation",
+      "locations": [
+        "Bengaluru, India (Remote-First)"
+      ],
+      "roles": [
+        "Full Stack Engineer",
+        "Site Reliability Engineer",
+        "Platform Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 7,
+        "DSA": 8,
+        "OOD": 7,
+        "APTI": 8,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 7,
+        "SQL": 8,
+        "SWE": 8,
+        "SYSD": 8,
+        "NETW": 7,
+        "OS": 8
+      },
+      "skill_levels": {
+        "COD": "7-AS",
+        "DSA": "8-EV",
+        "OOD": "7-CR",
+        "APTI": "8-EV",
+        "COMM": "7-AS",
+        "AI": "8-EV",
+        "CLOUD": "7-EV",
+        "SQL": "8-EV",
+        "SWE": "8 - EV",
+        "SYSD": "8-CR",
+        "NETW": "7-CR",
+        "OS": "8-CR"
+      },
+      "description": "Hiring standard focuses on DSA (8/10), APTI (8/10), AI (8/10) across verified competency levels."
+    },
+    "nutanix": {
+      "id": 46,
+      "company_id": "nutanix",
+      "name": "Nutanix, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 6,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 7,
+        "NETW": 8,
+        "OS": 8
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-AS",
+        "OOD": "6-EV",
+        "APTI": "7-AS",
+        "COMM": "7-AS",
+        "AI": "8-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-AS",
+        "SWE": "8 - EV",
+        "SYSD": "7-EV",
+        "NETW": "8-AS",
+        "OS": "8-AS"
+      },
+      "description": "Hiring standard focuses on AI (8/10), SWE (8/10), NETW (8/10) across verified competency levels."
+    },
+    "deepmind": {
+      "id": 47,
+      "company_id": "deepmind",
+      "name": "DeepMind",
+      "locations": [
+        "London, UK / Remote"
+      ],
+      "roles": [
+        "Research Scientist",
+        "Research Engineer",
+        "AI Systems Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 8,
+        "DSA": 10,
+        "OOD": 9,
+        "APTI": 9,
+        "COMM": 8,
+        "AI": 9,
+        "CLOUD": 9,
+        "SQL": 9,
+        "SWE": 10,
+        "SYSD": 9,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "8-EV",
+        "DSA": "10-CR",
+        "OOD": "9-CR",
+        "APTI": "9-CR",
+        "COMM": "8-CR",
+        "AI": "9-CR",
+        "CLOUD": "9-CR",
+        "SQL": "9-CR",
+        "SWE": "10 - CR",
+        "SYSD": "9-CR",
+        "NETW": "4-CU",
+        "OS": "4-CU"
+      },
+      "description": "Hiring standard focuses on DSA (10/10), SWE (10/10), OOD (9/10) across verified competency levels."
+    },
+    "akamai-india-pvt": {
+      "id": 48,
+      "company_id": "akamai-india-pvt",
+      "name": "Akamai Technologies India Pvt. Ltd.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 8,
+        "OOD": 6,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 7,
+        "NETW": 9,
+        "OS": 9
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "8-EV",
+        "OOD": "6-AS",
+        "APTI": "7-AS",
+        "COMM": "7-AS",
+        "AI": "7-AS",
+        "CLOUD": "6-EV",
+        "SQL": "6-AS",
+        "SWE": "8 - EV",
+        "SYSD": "7-EV",
+        "NETW": "9-EV",
+        "OS": "9-EV"
+      },
+      "description": "Hiring standard focuses on NETW (9/10), OS (9/10), DSA (8/10) across verified competency levels."
+    },
+    "adobe": {
+      "id": 49,
+      "company_id": "adobe",
+      "name": "Adobe Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 7,
+        "DSA": 8,
+        "OOD": 8,
+        "APTI": 8,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 9,
+        "SYSD": 8,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "7-AS",
+        "DSA": "8-CR",
+        "OOD": "8-CR",
+        "APTI": "8-EV",
+        "COMM": "7-EV",
+        "AI": "8-EV",
+        "CLOUD": "6-AP",
+        "SQL": "6-AP",
+        "SWE": "9 - EV",
+        "SYSD": "8-CR",
+        "NETW": "4-AP",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on SWE (9/10), DSA (8/10), OOD (8/10) across verified competency levels."
+    },
+    "genpact": {
+      "id": 50,
+      "company_id": "genpact",
+      "name": "Genpact Ltd.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 3,
+        "SWE": 5,
+        "SYSD": 3,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "4-AP",
+        "CLOUD": "4-CU",
+        "SQL": "3-CU",
+        "SWE": "5 - AP",
+        "SYSD": "3-AP",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), APTI (5/10), SWE (5/10) across verified competency levels."
+    },
+    "uber": {
+      "id": 51,
+      "company_id": "uber",
+      "name": "Uber Technologies, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 7,
+        "DSA": 8,
+        "OOD": 7,
+        "APTI": 8,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 7,
+        "SQL": 7,
+        "SWE": 9,
+        "SYSD": 6,
+        "NETW": 7,
+        "OS": 7
+      },
+      "skill_levels": {
+        "COD": "7-AP",
+        "DSA": "8-EV",
+        "OOD": "7-CR",
+        "APTI": "8-EV",
+        "COMM": "7-EV",
+        "AI": "8-EV",
+        "CLOUD": "7-EV",
+        "SQL": "7-EV",
+        "SWE": "9 - EV",
+        "SYSD": "6-CR",
+        "NETW": "7-AS",
+        "OS": "7-AS"
+      },
+      "description": "Hiring standard focuses on SWE (9/10), DSA (8/10), APTI (8/10) across verified competency levels."
+    },
+    "dell": {
+      "id": 52,
+      "company_id": "dell",
+      "name": "Dell Technologies Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AP",
+        "OOD": "5-EV",
+        "APTI": "6-AP",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "4-AP",
+        "SQL": "4-CU",
+        "SWE": "7 - AS",
+        "SYSD": "5-AS",
+        "NETW": "5-AP",
+        "OS": "5-AP"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "even-healthcare": {
+      "id": 53,
+      "company_id": "even-healthcare",
+      "name": "Even Healthcare Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 6,
+        "SYSD": 4,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-AP",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "4-CU",
+        "SQL": "5-AP",
+        "SWE": "6 - AS",
+        "SYSD": "4-AP",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on AI (6/10), SWE (6/10), APTI (5/10) across verified competency levels."
+    },
+    "groww-invest-tech": {
+      "id": 54,
+      "company_id": "groww-invest-tech",
+      "name": "Groww Invest Tech Pvt. Ltd.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "5-AS",
+        "APTI": "6-AS",
+        "COMM": "6-AS",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "6-AS",
+        "SWE": "8 - EV",
+        "SYSD": "5-EV",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "mintair": {
+      "id": 55,
+      "company_id": "mintair",
+      "name": "MintAir Corp",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 5,
+        "CLOUD": 5,
+        "SQL": 4,
+        "SWE": 5,
+        "SYSD": 1,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "5-AS",
+        "CLOUD": "5-AP",
+        "SQL": "4-AP",
+        "SWE": "5 - AP",
+        "SYSD": "1-CU",
+        "NETW": "5-AP",
+        "OS": "5-AP"
+      },
+      "description": "Hiring standard focuses on DSA (5/10), APTI (5/10), COMM (5/10) across verified competency levels."
+    },
+    "openai": {
+      "id": 56,
+      "company_id": "openai",
+      "name": "OpenAI, Inc.",
+      "locations": [
+        "San Francisco, CA / Remote"
+      ],
+      "roles": [
+        "Research Engineer",
+        "AI Infrastructure Engineer",
+        "Full Stack AI Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 8,
+        "DSA": 9,
+        "OOD": 9,
+        "APTI": 9,
+        "COMM": 8,
+        "AI": 10,
+        "CLOUD": 9,
+        "SQL": 9,
+        "SWE": 10,
+        "SYSD": 8,
+        "NETW": 9,
+        "OS": 9
+      },
+      "skill_levels": {
+        "COD": "8-EV",
+        "DSA": "9-CR",
+        "OOD": "9-CR",
+        "APTI": "9-CR",
+        "COMM": "8-CR",
+        "AI": "10-CR",
+        "CLOUD": "9-CR",
+        "SQL": "9-CR",
+        "SWE": "10 - CR",
+        "SYSD": "8-CR",
+        "NETW": "9-CR",
+        "OS": "9-CR"
+      },
+      "description": "Hiring standard focuses on AI (10/10), SWE (10/10), DSA (9/10) across verified competency levels."
+    },
+    "skyhigh-security": {
+      "id": 57,
+      "company_id": "skyhigh-security",
+      "name": "Skyhigh Security",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 6,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 6,
+        "OS": 7
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-AS",
+        "OOD": "6-EV",
+        "APTI": "7-AS",
+        "COMM": "7-AS",
+        "AI": "7-AS",
+        "CLOUD": "6-AS",
+        "SQL": "6-EV",
+        "SWE": "8 - AS",
+        "SYSD": "6-EV",
+        "NETW": "6-EV",
+        "OS": "7-EV"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), APTI (7/10) across verified competency levels."
+    },
+    "space-exploration": {
+      "id": 58,
+      "company_id": "space-exploration",
+      "name": "Space Exploration Technologies Corp.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 7,
+        "DSA": 8,
+        "OOD": 9,
+        "APTI": 8,
+        "COMM": 8,
+        "AI": 9,
+        "CLOUD": 8,
+        "SQL": 8,
+        "SWE": 9,
+        "SYSD": 7,
+        "NETW": 8,
+        "OS": 9
+      },
+      "skill_levels": {
+        "COD": "7-EV",
+        "DSA": "8-EV",
+        "OOD": "9-CR",
+        "APTI": "8-EV",
+        "COMM": "8-EV",
+        "AI": "9-CR",
+        "CLOUD": "8-EV",
+        "SQL": "8-AS",
+        "SWE": "9 - CR",
+        "SYSD": "7-EV",
+        "NETW": "8-EV",
+        "OS": "9-EV"
+      },
+      "description": "Hiring standard focuses on OOD (9/10), AI (9/10), SWE (9/10) across verified competency levels."
+    },
+    "walmart": {
+      "id": 59,
+      "company_id": "walmart",
+      "name": "Walmart Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "7-AP",
+        "OOD": "5-AS",
+        "APTI": "6-AS",
+        "COMM": "6-AS",
+        "AI": "7-EV",
+        "CLOUD": "5-AP",
+        "SQL": "7-AP",
+        "SWE": "7 - AS",
+        "SYSD": "6-AS",
+        "NETW": "5-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on DSA (7/10), AI (7/10), SQL (7/10) across verified competency levels."
+    },
+    "zepto": {
+      "id": 60,
+      "company_id": "zepto",
+      "name": "Zepto Technologies Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 7,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "7-AS",
+        "OOD": "5-EV",
+        "APTI": "6-AS",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-AS",
+        "SWE": "8 - EV",
+        "SYSD": "6-CR",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), SQL (7/10) across verified competency levels."
+    },
+    "devrev-cloud-india": {
+      "id": 61,
+      "company_id": "devrev-cloud-india",
+      "name": "DevRev Cloud India Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 7,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 5,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "7-AP",
+        "OOD": "6-AS",
+        "APTI": "6-AS",
+        "COMM": "5-AP",
+        "AI": "7-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-AS",
+        "SWE": "8 - EV",
+        "SYSD": "5-AS",
+        "NETW": "4-AS",
+        "OS": "5-AP"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), AI (7/10) across verified competency levels."
+    },
+    "increff": {
+      "id": 62,
+      "company_id": "increff",
+      "name": "Increff Technologies Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 4,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "6-AS",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "4-AP",
+        "SQL": "5-AP",
+        "SWE": "7 - AS",
+        "SYSD": "4-AP",
+        "NETW": "3-AP",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), AI (6/10) across verified competency levels."
+    },
+    "moveinsync": {
+      "id": 63,
+      "company_id": "moveinsync",
+      "name": "MoveInSync Technologies Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 5,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 6,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AP",
+        "OOD": "5-AS",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "5-AS",
+        "CLOUD": "4-AP",
+        "SQL": "4-AP",
+        "SWE": "6 - AP",
+        "SYSD": "5-EV",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on DSA (6/10), SWE (6/10), COD (5/10) across verified competency levels."
+    },
+    "nvidia": {
+      "id": 64,
+      "company_id": "nvidia",
+      "name": "NVIDIA Corporation",
+      "locations": [
+        "Bengaluru, India",
+        "Pune, India",
+        "Hyderabad, India"
+      ],
+      "roles": [
+        "CUDA Systems Engineer",
+        "Deep Learning Architect",
+        "Compiler Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 7,
+        "DSA": 9,
+        "OOD": 9,
+        "APTI": 8,
+        "COMM": 7,
+        "AI": 9,
+        "CLOUD": 7,
+        "SQL": 8,
+        "SWE": 9,
+        "SYSD": 7,
+        "NETW": 6,
+        "OS": 7
+      },
+      "skill_levels": {
+        "COD": "7-EV",
+        "DSA": "9-EV",
+        "OOD": "9-CR",
+        "APTI": "8-EV",
+        "COMM": "7-EV",
+        "AI": "9-CR",
+        "CLOUD": "7-EV",
+        "SQL": "8-EV",
+        "SWE": "9 - EV",
+        "SYSD": "7-EV",
+        "NETW": "6-EV",
+        "OS": "7-EV"
+      },
+      "description": "Hiring standard focuses on DSA (9/10), OOD (9/10), AI (9/10) across verified competency levels."
+    },
+    "servicenow": {
+      "id": 65,
+      "company_id": "servicenow",
+      "name": "ServiceNow, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 7,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 5,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-EV",
+        "OOD": "7-EV",
+        "APTI": "7-AS",
+        "COMM": "7-AS",
+        "AI": "8-EV",
+        "CLOUD": "6-AP",
+        "SQL": "6-AP",
+        "SWE": "8 - AS",
+        "SYSD": "6-CR",
+        "NETW": "5-AS",
+        "OS": "4-CU"
+      },
+      "description": "Hiring standard focuses on AI (8/10), SWE (8/10), DSA (7/10) across verified competency levels."
+    },
+    "tredence": {
+      "id": 66,
+      "company_id": "tredence",
+      "name": "Tredence Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 7,
+        "SWE": 6,
+        "SYSD": 5,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "4-AS",
+        "APTI": "6-AS",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "5-AS",
+        "SQL": "7-AS",
+        "SWE": "6 - AS",
+        "SYSD": "5-AS",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on SQL (7/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "cme-group": {
+      "id": 67,
+      "company_id": "cme-group",
+      "name": "CME Group Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 5,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "6-AS",
+        "OOD": "5-EV",
+        "APTI": "6-AS",
+        "COMM": "7-EV",
+        "AI": "7-EV",
+        "CLOUD": "5-AS",
+        "SQL": "7-EV",
+        "SWE": "7 - AS",
+        "SYSD": "6-EV",
+        "NETW": "5-EV",
+        "OS": "6-EV"
+      },
+      "description": "Hiring standard focuses on COMM (7/10), AI (7/10), SQL (7/10) across verified competency levels."
+    },
+    "hcl": {
+      "id": 68,
+      "company_id": "hcl",
+      "name": "HCL Technologies Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 5,
+        "SYSD": 3,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "5 - AP",
+        "SYSD": "3-AP",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on DSA (5/10), APTI (5/10), COMM (5/10) across verified competency levels."
+    },
+    "freshworks": {
+      "id": 69,
+      "company_id": "freshworks",
+      "name": "Freshworks Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-AP",
+        "OOD": "6-AS",
+        "APTI": "6-AP",
+        "COMM": "6-AS",
+        "AI": "7-EV",
+        "CLOUD": "5-AP",
+        "SQL": "6-AS",
+        "SWE": "7 - AS",
+        "SYSD": "6-CR",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on DSA (7/10), AI (7/10), SWE (7/10) across verified competency levels."
+    },
+    "hp": {
+      "id": 70,
+      "company_id": "hp",
+      "name": "HP Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 6,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AP",
+        "OOD": "5-AS",
+        "APTI": "6-AP",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "6 - AP",
+        "SYSD": "5-EV",
+        "NETW": "4-AP",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on DSA (6/10), APTI (6/10), COMM (6/10) across verified competency levels."
+    },
+    "koninklijke-philips-n": {
+      "id": 71,
+      "company_id": "koninklijke-philips-n",
+      "name": "Koninklijke Philips N.V.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 5,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "5-AS",
+        "OOD": "5-AS",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "7-AS",
+        "CLOUD": "4-CU",
+        "SQL": "5-CU",
+        "SWE": "7 - AS",
+        "SYSD": "5-AS",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on AI (7/10), SWE (7/10), COMM (6/10) across verified competency levels."
+    },
+    "warner-bros-discovery": {
+      "id": 72,
+      "company_id": "warner-bros-discovery",
+      "name": "Warner Bros. Discovery, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 7,
+        "SWE": 6,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "5-AP",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "5-AP",
+        "SQL": "7-AS",
+        "SWE": "6 - AP",
+        "SYSD": "6-EV",
+        "NETW": "4-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on SQL (7/10), COMM (6/10), AI (6/10) across verified competency levels."
+    },
+    "hyperverge": {
+      "id": 73,
+      "company_id": "hyperverge",
+      "name": "HyperVerge Technologies Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 5,
+        "AI": 8,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 4,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "5-EV",
+        "APTI": "6-AS",
+        "COMM": "5-AP",
+        "AI": "8-EV",
+        "CLOUD": "6-AS",
+        "SQL": "6-AS",
+        "SWE": "8 - EV",
+        "SYSD": "4-AP",
+        "NETW": "4-AP",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on AI (8/10), SWE (8/10), DSA (6/10) across verified competency levels."
+    },
+    "motorq": {
+      "id": 74,
+      "company_id": "motorq",
+      "name": "Motorq Technologies Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 8,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 5,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "6-AP",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "8-EV",
+        "SWE": "7 - AS",
+        "SYSD": "5-EV",
+        "NETW": "5-AS",
+        "OS": "6-AS"
+      },
+      "description": "Hiring standard focuses on SQL (8/10), SWE (7/10), DSA (6/10) across verified competency levels."
+    },
+    "autodesk": {
+      "id": 75,
+      "company_id": "autodesk",
+      "name": "Autodesk",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 8,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 7,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-EV",
+        "OOD": "8-CR",
+        "APTI": "7-EV",
+        "COMM": "7-AS",
+        "AI": "8-EV",
+        "CLOUD": "7-EV",
+        "SQL": "7-EV",
+        "SWE": "8 - EV",
+        "SYSD": "6-CR",
+        "NETW": "4-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on OOD (8/10), AI (8/10), SWE (8/10) across verified competency levels."
+    },
+    "electronic-arts": {
+      "id": 76,
+      "company_id": "electronic-arts",
+      "name": "Electronic Arts",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 7,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "7-EV",
+        "OOD": "7-EV",
+        "APTI": "7-AS",
+        "COMM": "7-AS",
+        "AI": "7-EV",
+        "CLOUD": "6-AP",
+        "SQL": "7-AS",
+        "SWE": "7 - AS",
+        "SYSD": "6-EV",
+        "NETW": "4-AP",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on DSA (7/10), OOD (7/10), APTI (7/10) across verified competency levels."
+    },
+    "morgan-stanley": {
+      "id": 77,
+      "company_id": "morgan-stanley",
+      "name": "Morgan Stanley",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 5,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 7,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-EV",
+        "OOD": "5-EV",
+        "APTI": "7-EV",
+        "COMM": "7-EV",
+        "AI": "7-EV",
+        "CLOUD": "5-AS",
+        "SQL": "7-EV",
+        "SWE": "8 - AS",
+        "SYSD": "7-EV",
+        "NETW": "5-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), APTI (7/10) across verified competency levels."
+    },
+    "microsoft": {
+      "id": 78,
+      "company_id": "microsoft",
+      "name": "Microsoft Corporation",
+      "locations": [
+        "Hyderabad, India",
+        "Bengaluru, India",
+        "Noida, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Data Analyst",
+        "Cloud Solution Architect"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 9,
+        "OOD": 8,
+        "APTI": 8,
+        "COMM": 7,
+        "AI": 8,
+        "CLOUD": 7,
+        "SQL": 8,
+        "SWE": 9,
+        "SYSD": 8,
+        "NETW": 8,
+        "OS": 8
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "9-EV",
+        "OOD": "8-CR",
+        "APTI": "8-EV",
+        "COMM": "7-EV",
+        "AI": "8-EV",
+        "CLOUD": "7-EV",
+        "SQL": "8-AS",
+        "SWE": "9 - EV",
+        "SYSD": "8-CR",
+        "NETW": "8-EV",
+        "OS": "8-EV"
+      },
+      "description": "Balanced high bar in software engineering, enterprise cloud architectures (Azure), and algorithms."
+    },
+    "darwinbox-digital-solutions": {
+      "id": 79,
+      "company_id": "darwinbox-digital-solutions",
+      "name": "Darwinbox Digital Solutions Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AP",
+        "OOD": "5-EV",
+        "APTI": "6-AS",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "4-AP",
+        "SQL": "6-AP",
+        "SWE": "7 - AS",
+        "SYSD": "5-AS",
+        "NETW": "3-AP",
+        "OS": "3-AS"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "epifi": {
+      "id": 80,
+      "company_id": "epifi",
+      "name": "Epifi Technologies Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "6-AS",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-AP",
+        "SWE": "8 - EV",
+        "SYSD": "5-EV",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), SQL (7/10), DSA (6/10) across verified competency levels."
+    },
+    "juspay": {
+      "id": 81,
+      "company_id": "juspay",
+      "name": "Juspay Technologies Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 5,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 5,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "7-AS",
+        "OOD": "6-AS",
+        "APTI": "6-AS",
+        "COMM": "5-AP",
+        "AI": "7-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-EV",
+        "SWE": "8 - EV",
+        "SYSD": "6-CR",
+        "NETW": "5-EV",
+        "OS": "6-EV"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), AI (7/10) across verified competency levels."
+    },
+    "flipkart": {
+      "id": 82,
+      "company_id": "flipkart",
+      "name": "Flipkart Internet Private Limited",
+      "locations": [
+        "Bengaluru, India"
+      ],
+      "roles": [
+        "SDE-1 / SDE-2",
+        "Data Platform Engineer",
+        "DevOps Engineer"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 7,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 7,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 5,
+        "NETW": 7,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "7-AP",
+        "OOD": "6-EV",
+        "APTI": "6-AS",
+        "COMM": "6-AS",
+        "AI": "7-EV",
+        "CLOUD": "7-EV",
+        "SQL": "6-AS",
+        "SWE": "8 - EV",
+        "SYSD": "5-AS",
+        "NETW": "7-AS",
+        "OS": "6-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), DSA (7/10), AI (7/10) across verified competency levels."
+    },
+    "optum": {
+      "id": 83,
+      "company_id": "optum",
+      "name": "Optum",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "5-AS",
+        "APTI": "6-AS",
+        "COMM": "6-AS",
+        "AI": "6-EV",
+        "CLOUD": "4-AP",
+        "SQL": "5-AP",
+        "SWE": "7 - AS",
+        "SYSD": "5-AS",
+        "NETW": "4-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "paypal-holdings": {
+      "id": 84,
+      "company_id": "paypal-holdings",
+      "name": "PayPal Holdings, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 8,
+        "OOD": 7,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 8,
+        "SYSD": 7,
+        "NETW": 6,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "6-AS",
+        "DSA": "8-EV",
+        "OOD": "7-EV",
+        "APTI": "7-EV",
+        "COMM": "7-EV",
+        "AI": "7-EV",
+        "CLOUD": "6-AS",
+        "SQL": "6-AP",
+        "SWE": "8 - EV",
+        "SYSD": "7-EV",
+        "NETW": "6-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on DSA (8/10), SWE (8/10), OOD (7/10) across verified competency levels."
+    },
+    "bajaj-finserv-health": {
+      "id": 85,
+      "company_id": "bajaj-finserv-health",
+      "name": "Bajaj Finserv Health Ltd.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 6,
+        "SYSD": 3,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "5-AP",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "6-EV",
+        "CLOUD": "5-AP",
+        "SQL": "5-AS",
+        "SWE": "6 - AS",
+        "SYSD": "3-AP",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), AI (6/10), SWE (6/10) across verified competency levels."
+    },
+    "bain-capability-network": {
+      "id": 86,
+      "company_id": "bain-capability-network",
+      "name": "Bain Capability Network",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 7,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 7,
+        "SYSD": 2,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "5-AS",
+        "OOD": "4-AS",
+        "APTI": "7-AS",
+        "COMM": "7-EV",
+        "AI": "6-AS",
+        "CLOUD": "4-CU",
+        "SQL": "4-AP",
+        "SWE": "7 - AS",
+        "SYSD": "2-CU",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on APTI (7/10), COMM (7/10), SWE (7/10) across verified competency levels."
+    },
+    "proactively": {
+      "id": 87,
+      "company_id": "proactively",
+      "name": "Proactively Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 5,
+        "AI": 5,
+        "CLOUD": 3,
+        "SQL": 3,
+        "SWE": 6,
+        "SYSD": 1,
+        "NETW": 3,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "6-AP",
+        "OOD": "5-AS",
+        "APTI": "6-AS",
+        "COMM": "5-AP",
+        "AI": "5-AS",
+        "CLOUD": "3-AP",
+        "SQL": "3-CU",
+        "SWE": "6 - AP",
+        "SYSD": "1-CU",
+        "NETW": "3-AP",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on DSA (6/10), APTI (6/10), SWE (6/10) across verified competency levels."
+    },
+    "samsung-prism": {
+      "id": 88,
+      "company_id": "samsung-prism",
+      "name": "Samsung PRISM",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 6,
+        "DSA": 6,
+        "OOD": 6,
+        "APTI": 6,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 4,
+        "SWE": 7,
+        "SYSD": 4,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "6-AP",
+        "DSA": "6-AP",
+        "OOD": "6-AS",
+        "APTI": "6-AP",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "5-AS",
+        "SQL": "4-AS",
+        "SWE": "7 - AS",
+        "SYSD": "4-AP",
+        "NETW": "4-CU",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), COD (6/10), DSA (6/10) across verified competency levels."
+    },
+    "acko-general-insurance": {
+      "id": 89,
+      "company_id": "acko-general-insurance",
+      "name": "Acko General Insurance Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 4,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "5-EV",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "6-AP",
+        "SQL": "6-EV",
+        "SWE": "7 - AS",
+        "SYSD": "4-AS",
+        "NETW": "4-AS",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), AI (6/10) across verified competency levels."
+    },
+    "robert-bosch": {
+      "id": 90,
+      "company_id": "robert-bosch",
+      "name": "Robert Bosch GmbH",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 6,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 5,
+        "SQL": 4,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 5,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AP",
+        "OOD": "6-EV",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "7-AS",
+        "CLOUD": "5-AP",
+        "SQL": "4-CU",
+        "SWE": "7 - AS",
+        "SYSD": "5-EV",
+        "NETW": "5-AP",
+        "OS": "5-AP"
+      },
+      "description": "Hiring standard focuses on AI (7/10), SWE (7/10), DSA (6/10) across verified competency levels."
+    },
+    "concentrix": {
+      "id": 91,
+      "company_id": "concentrix",
+      "name": "Concentrix Corporation",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 5,
+        "AI": 3,
+        "CLOUD": 3,
+        "SQL": 2,
+        "SWE": 4,
+        "SYSD": 3,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "4-AP",
+        "COMM": "5-AP",
+        "AI": "3-AP",
+        "CLOUD": "3-CU",
+        "SQL": "2-CU",
+        "SWE": "4 - AP",
+        "SYSD": "3-AP",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on COMM (5/10), COD (4/10), DSA (4/10) across verified competency levels."
+    },
+    "dunzo-digital": {
+      "id": 92,
+      "company_id": "dunzo-digital",
+      "name": "Dunzo Digital Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "6-AS",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "6-AP",
+        "SWE": "7 - EV",
+        "SYSD": "5-AS",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), AI (6/10) across verified competency levels."
+    },
+    "byju--": {
+      "id": 93,
+      "company_id": "byju--",
+      "name": "ByjuÃ¢â‚¬â„¢s",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 6,
+        "AI": 5,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 6,
+        "SYSD": 4,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AS",
+        "DSA": "4-CU",
+        "OOD": "3-CU",
+        "APTI": "4-CU",
+        "COMM": "6-AS",
+        "AI": "5-AS",
+        "CLOUD": "4-AP",
+        "SQL": "4-AP",
+        "SWE": "6 - AP",
+        "SYSD": "4-AS",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), SWE (6/10), AI (5/10) across verified competency levels."
+    },
+    "cleartrip": {
+      "id": 94,
+      "company_id": "cleartrip",
+      "name": "Cleartrip",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "5-AS",
+        "SQL": "7-AS",
+        "SWE": "7 - AS",
+        "SYSD": "6-CR",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SQL (7/10), SWE (7/10), AI (6/10) across verified competency levels."
+    },
+    "cognizant-solutions": {
+      "id": 95,
+      "company_id": "cognizant-solutions",
+      "name": "Cognizant Technology Solutions Corporation",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 5,
+        "SYSD": 3,
+        "NETW": 2,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-CU",
+        "SQL": "5-CU",
+        "SWE": "5 - AP",
+        "SYSD": "3-AP",
+        "NETW": "2-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on APTI (5/10), COMM (5/10), SQL (5/10) across verified competency levels."
+    },
+    "dxc-company": {
+      "id": 96,
+      "company_id": "dxc-company",
+      "name": "DXC Technology Company",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 5,
+        "SYSD": 3,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "5 - AP",
+        "SYSD": "3-AP",
+        "NETW": "3-AP",
+        "OS": "3-AP"
+      },
+      "description": "Hiring standard focuses on APTI (5/10), COMM (5/10), SWE (5/10) across verified competency levels."
+    },
+    "physicswallah": {
+      "id": 97,
+      "company_id": "physicswallah",
+      "name": "PhysicsWallah Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 3,
+        "OOD": 2,
+        "APTI": 4,
+        "COMM": 5,
+        "AI": 5,
+        "CLOUD": 5,
+        "SQL": 6,
+        "SWE": 6,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "3-CU",
+        "OOD": "2-CU",
+        "APTI": "4-CU",
+        "COMM": "5-AP",
+        "AI": "5-AS",
+        "CLOUD": "5-AP",
+        "SQL": "6-AP",
+        "SWE": "6 - AP",
+        "SYSD": "6-EV",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on SQL (6/10), SWE (6/10), SYSD (6/10) across verified competency levels."
+    },
+    "udemy": {
+      "id": 98,
+      "company_id": "udemy",
+      "name": "Udemy, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 5,
+        "NETW": 5,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "4-AS",
+        "DSA": "4-AP",
+        "OOD": "3-AS",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "7-EV",
+        "CLOUD": "6-EV",
+        "SQL": "6-AS",
+        "SWE": "7 - AS",
+        "SYSD": "5-AS",
+        "NETW": "5-AS",
+        "OS": "6-EV"
+      },
+      "description": "Hiring standard focuses on AI (7/10), SWE (7/10), COMM (6/10) across verified competency levels."
+    },
+    "ntt-data": {
+      "id": 99,
+      "company_id": "ntt-data",
+      "name": "NTT DATA",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 6,
+        "SYSD": 4,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "5-AP",
+        "OOD": "4-AS",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-AP",
+        "SQL": "5-AP",
+        "SWE": "6 - AP",
+        "SYSD": "4-AP",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on SWE (6/10), COD (5/10), DSA (5/10) across verified competency levels."
+    },
+    "virtusa": {
+      "id": 100,
+      "company_id": "virtusa",
+      "name": "Virtusa Corporation",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 5,
+        "SYSD": 4,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-AP",
+        "SQL": "5-CU",
+        "SWE": "5 - AP",
+        "SYSD": "4-AP",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on DSA (5/10), APTI (5/10), COMM (5/10) across verified competency levels."
+    },
+    "upgrad-education": {
+      "id": 101,
+      "company_id": "upgrad-education",
+      "name": "upGrad Education Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 6,
+        "AI": 5,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 6,
+        "SYSD": 4,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-CU",
+        "OOD": "3-CU",
+        "APTI": "4-CU",
+        "COMM": "6-AS",
+        "AI": "5-AS",
+        "CLOUD": "5-AS",
+        "SQL": "5-AP",
+        "SWE": "6 - AP",
+        "SYSD": "4-AS",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), SWE (6/10), AI (5/10) across verified competency levels."
+    },
+    "zs-associates-2": {
+      "id": 102,
+      "company_id": "zs-associates-2",
+      "name": "ZS Associates, Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 6,
+        "COMM": 7,
+        "AI": 6,
+        "CLOUD": 3,
+        "SQL": 6,
+        "SWE": 6,
+        "SYSD": 5,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AP",
+        "OOD": "5-AS",
+        "APTI": "6-AS",
+        "COMM": "7-AS",
+        "AI": "6-EV",
+        "CLOUD": "3-CU",
+        "SQL": "6-AS",
+        "SWE": "6 - AS",
+        "SYSD": "5-AS",
+        "NETW": "3-AP",
+        "OS": "3-AP"
+      },
+      "description": "Hiring standard focuses on COMM (7/10), DSA (6/10), APTI (6/10) across verified competency levels."
+    },
+    "wipro": {
+      "id": 103,
+      "company_id": "wipro",
+      "name": "Wipro Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 4,
+        "SYSD": 3,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "4 - AP",
+        "SYSD": "3-AP",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on DSA (5/10), APTI (5/10), COMM (5/10) across verified competency levels."
+    },
+    "paytm-money": {
+      "id": 104,
+      "company_id": "paytm-money",
+      "name": "Paytm Money",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 5,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AS",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "7-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-EV",
+        "SWE": "7 - EV",
+        "SYSD": "6-CR",
+        "NETW": "5-AS",
+        "OS": "6-AS"
+      },
+      "description": "Hiring standard focuses on AI (7/10), SQL (7/10), SWE (7/10) across verified competency levels."
+    },
+    "hexagon-capability-center": {
+      "id": 105,
+      "company_id": "hexagon-capability-center",
+      "name": "Hexagon Capability Center India",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 4,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "6-AP",
+        "OOD": "5-AS",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "6-AS",
+        "CLOUD": "5-AP",
+        "SQL": "5-AP",
+        "SWE": "7 - AS",
+        "SYSD": "4-AP",
+        "NETW": "3-AP",
+        "OS": "3-AP"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), DSA (6/10), COMM (6/10) across verified competency levels."
+    },
+    "indmoney": {
+      "id": 106,
+      "company_id": "indmoney",
+      "name": "INDmoney Private Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 6,
+        "AI": 7,
+        "CLOUD": 7,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 5,
+        "NETW": 5,
+        "OS": 6
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AS",
+        "OOD": "4-AS",
+        "APTI": "5-AP",
+        "COMM": "6-AS",
+        "AI": "7-EV",
+        "CLOUD": "7-EV",
+        "SQL": "7-AS",
+        "SWE": "8 - EV",
+        "SYSD": "5-EV",
+        "NETW": "5-EV",
+        "OS": "6-EV"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), AI (7/10), CLOUD (7/10) across verified competency levels."
+    },
+    "tech-mahindra": {
+      "id": 107,
+      "company_id": "tech-mahindra",
+      "name": "Tech Mahindra Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 5,
+        "SYSD": 3,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "5 - AP",
+        "SYSD": "3-AP",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on DSA (5/10), APTI (5/10), COMM (5/10) across verified competency levels."
+    },
+    "simplilearn": {
+      "id": 108,
+      "company_id": "simplilearn",
+      "name": "Simplilearn (Simplilearn.com; legally Simplilearn Solutions Private Limited)",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 3,
+        "OOD": 2,
+        "APTI": 4,
+        "COMM": 6,
+        "AI": 5,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 5,
+        "SYSD": 4,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "3-CU",
+        "OOD": "2-CU",
+        "APTI": "4-CU",
+        "COMM": "6-AS",
+        "AI": "5-AS",
+        "CLOUD": "5-CU",
+        "SQL": "5-AP",
+        "SWE": "5 - AP",
+        "SYSD": "4-AS",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on COMM (6/10), AI (5/10), CLOUD (5/10) across verified competency levels."
+    },
+    "bigbasket": {
+      "id": 109,
+      "company_id": "bigbasket",
+      "name": "BigBasket",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 5
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AS",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "7-AS",
+        "SWE": "7 - AS",
+        "SYSD": "6-EV",
+        "NETW": "4-AS",
+        "OS": "5-AS"
+      },
+      "description": "Hiring standard focuses on SQL (7/10), SWE (7/10), DSA (6/10) across verified competency levels."
+    },
+    "ecom-express": {
+      "id": 110,
+      "company_id": "ecom-express",
+      "name": "Ecom Express",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 5,
+        "AI": 5,
+        "CLOUD": 4,
+        "SQL": 6,
+        "SWE": 6,
+        "SYSD": 4,
+        "NETW": 3,
+        "OS": 3
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "4-AP",
+        "COMM": "5-AP",
+        "AI": "5-AP",
+        "CLOUD": "4-AP",
+        "SQL": "6-AP",
+        "SWE": "6 - AP",
+        "SYSD": "4-AP",
+        "NETW": "3-CU",
+        "OS": "3-CU"
+      },
+      "description": "Hiring standard focuses on SQL (6/10), SWE (6/10), DSA (5/10) across verified competency levels."
+    },
+    "kyndryl-holdings": {
+      "id": 111,
+      "company_id": "kyndryl-holdings",
+      "name": "Kyndryl Holdings Inc.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 4,
+        "CLOUD": 4,
+        "SQL": 4,
+        "SWE": 6,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "5-AP",
+        "OOD": "4-AS",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "4-AP",
+        "CLOUD": "4-CU",
+        "SQL": "4-CU",
+        "SWE": "6 - AS",
+        "SYSD": "5-AS",
+        "NETW": "4-AP",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on SWE (6/10), COD (5/10), DSA (5/10) across verified competency levels."
+    },
+    "one-mobikwik-systems": {
+      "id": 112,
+      "company_id": "one-mobikwik-systems",
+      "name": "One MobiKwik Systems Limited",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 7,
+        "SYSD": 4,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "5-AP",
+        "DSA": "6-AS",
+        "OOD": "4-EV",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "7-EV",
+        "CLOUD": "6-AP",
+        "SQL": "6-AP",
+        "SWE": "7 - EV",
+        "SYSD": "4-AP",
+        "NETW": "4-AS",
+        "OS": "4-AS"
+      },
+      "description": "Hiring standard focuses on AI (7/10), SWE (7/10), DSA (6/10) across verified competency levels."
+    },
+    "shadowfax": {
+      "id": 113,
+      "company_id": "shadowfax",
+      "name": "Shadowfax",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 3,
+        "APTI": 4,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 6,
+        "SQL": 6,
+        "SWE": 6,
+        "SYSD": 5,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AP",
+        "OOD": "3-AP",
+        "APTI": "4-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "6-AS",
+        "SQL": "6-AS",
+        "SWE": "6 - AS",
+        "SYSD": "5-EV",
+        "NETW": "4-AP",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on AI (6/10), CLOUD (6/10), SQL (6/10) across verified competency levels."
+    },
+    "rupeek": {
+      "id": 114,
+      "company_id": "rupeek",
+      "name": "Rupeek",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 5,
+        "OOD": 4,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 6,
+        "CLOUD": 5,
+        "SQL": 5,
+        "SWE": 7,
+        "SYSD": 6,
+        "NETW": 4,
+        "OS": 4
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "5-AS",
+        "OOD": "4-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "6-EV",
+        "CLOUD": "5-AS",
+        "SQL": "5-AP",
+        "SWE": "7 - AS",
+        "SYSD": "6-CR",
+        "NETW": "4-AP",
+        "OS": "4-AP"
+      },
+      "description": "Hiring standard focuses on SWE (7/10), AI (6/10), SYSD (6/10) across verified competency levels."
+    },
+    "3i-infotech": {
+      "id": 115,
+      "company_id": "3i-infotech",
+      "name": "3i Infotech Ltd.",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 4,
+        "DSA": 4,
+        "OOD": 3,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 3,
+        "CLOUD": 4,
+        "SQL": 5,
+        "SWE": 4,
+        "SYSD": 2,
+        "NETW": 2,
+        "OS": 2
+      },
+      "skill_levels": {
+        "COD": "4-AP",
+        "DSA": "4-AP",
+        "OOD": "3-AP",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "3-AP",
+        "CLOUD": "4-CU",
+        "SQL": "5-CU",
+        "SWE": "4 - AP",
+        "SYSD": "2-CU",
+        "NETW": "2-CU",
+        "OS": "2-CU"
+      },
+      "description": "Hiring standard focuses on APTI (5/10), COMM (5/10), SQL (5/10) across verified competency levels."
+    },
+    "bharatpe": {
+      "id": 116,
+      "company_id": "bharatpe",
+      "name": "BharatPe",
+      "locations": [
+        "Bengaluru / Hyderabad / Remote, India"
+      ],
+      "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Data Analyst"
+      ],
+      "skill_thresholds": {
+        "COD": 5,
+        "DSA": 6,
+        "OOD": 5,
+        "APTI": 5,
+        "COMM": 5,
+        "AI": 7,
+        "CLOUD": 6,
+        "SQL": 7,
+        "SWE": 8,
+        "SYSD": 6,
+        "NETW": 7,
+        "OS": 7
+      },
+      "skill_levels": {
+        "COD": "5-AS",
+        "DSA": "6-AS",
+        "OOD": "5-AS",
+        "APTI": "5-AP",
+        "COMM": "5-AP",
+        "AI": "7-EV",
+        "CLOUD": "6-EV",
+        "SQL": "7-EV",
+        "SWE": "8 - EV",
+        "SYSD": "6-CR",
+        "NETW": "7-AS",
+        "OS": "7-AS"
+      },
+      "description": "Hiring standard focuses on SWE (8/10), AI (7/10), SQL (7/10) across verified competency levels."
+    }
+  }
+}

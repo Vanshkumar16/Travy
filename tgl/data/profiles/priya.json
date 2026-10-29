@@ -1,0 +1,123 @@
+{
+  "id": "priya",
+  "name": "Priya Menon",
+  "email": "priya.menon@example.com",
+  "phone": "+91 96543 21098",
+  "education": "B.Tech in Computer Science, 2025, CGPA 7.8 / 10.0",
+  "institution": "JSS Academy of Technical Education",
+  "cgpa": "7.8",
+  "graduation_year": "2025",
+  "linkedin": "https://linkedin.com/in/priya-menon-tech",
+  "github": "https://github.com/priyamenon",
+  "portfolio": "https://priyamenon.dev",
+  "summary": "Dedicated, support-oriented engineer with solid foundations in Java, SQL relational queries, enterprise troubleshooting, and client communication.",
+  "skills": [
+    {
+      "skill_name": "Core Java & OOP",
+      "category_code": "COD",
+      "evidence": "Developed multi-threaded Java batch processors and Spring Boot REST CRUD APIs",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "SQL & Relational Schema Support",
+      "category_code": "SQL",
+      "evidence": "Wrote complex join queries, stored procedures, and resolved lock escalations in Oracle DB",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Technical Communication & Client Handling",
+      "category_code": "COMM",
+      "evidence": "Provided tier-2 support documentation and clear root cause analysis (RCA) to enterprise clients",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Logical Reasoning & Incident Triage",
+      "category_code": "APTI",
+      "evidence": "Systematic troubleshooting of priority P1/P2 production incidents under strict SLA windows",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Linux Shell Scripting & CLI",
+      "category_code": "OS",
+      "evidence": "Wrote Bash automation scripts for log rotation, disk space alerts, and process monitoring",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Basic Data Structures",
+      "category_code": "DSA",
+      "evidence": "Proficient in arrays, linked lists, hash tables, and queues for application logic",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Software Testing & QA",
+      "category_code": "SWE",
+      "evidence": "Wrote JUnit test suites and validated functional regression test cases before releases",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "HTTP/REST & Web Services",
+      "category_code": "NETW",
+      "evidence": "Integrated SOAP/REST financial web services and validated payload formats using Postman",
+      "confidence": "medium"
+    }
+  ],
+  "hackathons": [
+    {
+      "id": "h4",
+      "title": "Campus Innovate Hackathon 2024",
+      "role_or_project": "Automated Incident Escalation Bot",
+      "achievement": "Special Mention (Most Practical Enterprise Utility)",
+      "skills_used": [
+        "Java",
+        "SQL",
+        "REST API",
+        "Slack Webhooks"
+      ],
+      "year": "2024",
+      "link": "https://github.com/priyamenon/incident-escalator"
+    }
+  ],
+  "internships": [
+    {
+      "id": "i3",
+      "company": "Apex Financial Solutions",
+      "role": "Application Support Intern",
+      "duration": "Jun 2024 - Sep 2024 (4 months)",
+      "description": "Monitored core banking batch jobs, resolved data discrepancy tickets via SQL, and drafted standard operating procedures (SOPs).",
+      "skills_used": [
+        "Oracle SQL",
+        "Java",
+        "Linux Shell",
+        "ITIL"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "c5",
+      "name": "Oracle Certified Associate, Java SE 8 Programmer",
+      "issuer": "Oracle Corporation",
+      "issue_date": "Oct 2023",
+      "credential_id_or_url": "OCA-JAVA-77124"
+    },
+    {
+      "id": "c6",
+      "name": "ITIL Foundation Certificate in IT Service Management",
+      "issuer": "PeopleCert / Axelos",
+      "issue_date": "Mar 2024",
+      "credential_id_or_url": "ITIL-2024-9918"
+    }
+  ],
+  "preferred_roles": [
+    "Application Support Analyst",
+    "Associate Software Engineer"
+  ],
+  "preferred_companies": [
+    "Oracle Financial Services Software",
+    "Microsoft Corporation"
+  ],
+  "preferred_mode": "Onsite",
+  "cv_file": "priya_menon_resume.docx",
+  "cv_uploaded_at": "2026-10-24T15:40:02.277207+00:00",
+  "last_updated": "2026-10-24T15:40:02.278399+00:00"
+}

@@ -1,0 +1,171 @@
+{
+  "id": "rohan",
+  "name": "Rohan Verma",
+  "email": "rohan.verma@example.com",
+  "phone": "+91 95432 10987",
+  "education": "B.Tech in Computer Science & Engineering, 2024, CGPA 9.2 / 10.0",
+  "institution": "Indian Institute of Technology",
+  "cgpa": "9.2",
+  "graduation_year": "2024",
+  "linkedin": "https://linkedin.com/in/rohan-verma-swe",
+  "github": "https://github.com/rohanverma",
+  "portfolio": "https://rohanverma.dev",
+  "summary": "Competitive strong all-rounder with top-tier problem solving across backend architectures, full-stack development, modern AI agents, and cloud deployment.",
+  "skills": [
+    {
+      "skill_name": "Python (FastAPI, Asyncio)",
+      "category_code": "COD",
+      "evidence": "Engineered scalable REST & GraphQL microservices handling 25k requests per second",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "TypeScript & React",
+      "category_code": "COD",
+      "evidence": "Developed responsive enterprise dashboards using React and TailwindCSS",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Advanced DSA (Graphs, DP, Segment Trees)",
+      "category_code": "DSA",
+      "evidence": "Codeforces Candidate Master (1950+ rating); solved 750+ algorithmic challenges",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "System Design & Microservices",
+      "category_code": "SYSD",
+      "evidence": "Architected distributed caching layers with Redis cluster, Kafka message bus, and rate limiters",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Cloud & DevOps (AWS & Kubernetes)",
+      "category_code": "CLOUD",
+      "evidence": "Deployed production microservices to EKS cluster with Helm, Terraform, and Prometheus alerts",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "PostgreSQL & Distributed DBs",
+      "category_code": "SQL",
+      "evidence": "Implemented horizontal sharding and optimized write-heavy workloads with index tuning",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Software Engineering & Testing",
+      "category_code": "SWE",
+      "evidence": "Maintained 94% test coverage with PyTest, implemented strict trunk-based CI/CD",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Object-Oriented Design (OOD)",
+      "category_code": "OOD",
+      "evidence": "Applied clean architecture and domain-driven design (DDD) patterns across codebases",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Applied AI & LLM Orchestration",
+      "category_code": "AI",
+      "evidence": "Built RAG systems with LangChain, pgvector embeddings, and OpenAI function calling",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Networking & Protocols (gRPC, WebSockets)",
+      "category_code": "NETW",
+      "evidence": "Built real-time collaboration engines using bi-directional WebSockets and Protocol Buffers",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Operating Systems & Concurrency",
+      "category_code": "OS",
+      "evidence": "Developed lock-free concurrent queues and profiled CPU cache locality",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Leadership & Technical Communication",
+      "category_code": "COMM",
+      "evidence": "Led university hackathon team of 6 engineers; delivered talks on distributed systems",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Analytical & Quantitative Aptitude",
+      "category_code": "APTI",
+      "evidence": "Top 0.1% score in national engineering aptitude entrance examination",
+      "confidence": "high"
+    }
+  ],
+  "hackathons": [
+    {
+      "id": "h5",
+      "title": "National Smart India Hackathon 2025",
+      "role_or_project": "Autonomous AI Incident Triage Engine",
+      "achievement": "1st Place Grand Winner (\u20b91,00,000 Cash Prize)",
+      "skills_used": [
+        "Python",
+        "FastAPI",
+        "React",
+        "Kafka",
+        "AWS"
+      ],
+      "year": "2025",
+      "link": "https://github.com/rohanverma/triage-ai"
+    },
+    {
+      "id": "h6",
+      "title": "TGL Global Blitz 2024",
+      "role_or_project": "Realtime Collaborative Canvas",
+      "achievement": "Winner \u2014 Best Full-Stack Product",
+      "skills_used": [
+        "TypeScript",
+        "WebSockets",
+        "Go",
+        "Docker"
+      ],
+      "year": "2024",
+      "link": "https://github.com/rohanverma/canvas-sync"
+    }
+  ],
+  "internships": [
+    {
+      "id": "i4",
+      "company": "TechScale Global",
+      "role": "Software Engineering Intern",
+      "duration": "May 2024 - Aug 2024 (4 months)",
+      "description": "Built automated data ingestion pipelines handling 100M+ events daily. Cut query p99 latency from 1.2s to 180ms through Redis caching.",
+      "skills_used": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "c7",
+      "name": "AWS Certified Solutions Architect \u2014 Associate",
+      "issuer": "Amazon Web Services",
+      "issue_date": "Dec 2023",
+      "credential_id_or_url": "AWS-SAA-810923"
+    },
+    {
+      "id": "c8",
+      "name": "Meta Certified Front-End Developer",
+      "issuer": "Meta / Coursera",
+      "issue_date": "May 2023",
+      "credential_id_or_url": "META-FED-55102"
+    }
+  ],
+  "preferred_roles": [
+    "Software Engineer (SWE)",
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "preferred_companies": [
+    "Google LLC",
+    "Microsoft Corporation",
+    "Oracle Financial Services Software"
+  ],
+  "preferred_mode": "Hybrid",
+  "cv_file": "rohan_verma_allrounder_resume.pdf",
+  "cv_uploaded_at": "2026-10-24T15:40:02.277237+00:00",
+  "last_updated": "2026-10-24T15:40:02.278728+00:00"
+}

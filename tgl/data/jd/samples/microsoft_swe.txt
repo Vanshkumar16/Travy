@@ -1,0 +1,31 @@
+Company: Microsoft Corporation
+Role: Software Engineer
+Location: Hyderabad, India
+Work Mode: Hybrid
+Experience: 0-2 years
+
+Overview
+Microsoft's Cloud + AI group in Hyderabad builds the services that power Azure and Microsoft 365 for millions of organizations worldwide. We are looking for a Software Engineer who loves building reliable services and shipping features to production.
+
+Responsibilities
+• Design, develop and test cloud microservices running on Azure using C#, Java or TypeScript.
+• Build clean, object-oriented domain models that apply SOLID principles and common design patterns.
+• Own features end to end: from design docs and code reviews to deployment through CI/CD pipelines.
+• Write unit and integration tests and help maintain high code quality across the team.
+• Build and consume RESTful APIs and work with relational databases such as Azure SQL.
+• Collaborate with product managers and partner teams across time zones.
+
+Qualifications
+• Bachelor's degree in Computer Science or a related field.
+• Strong coding skills in at least one object-oriented language such as C#, Java, C++ or Python.
+• Good knowledge of data structures and algorithms and problem-solving skills.
+• Understanding of SQL and relational database concepts.
+• Familiarity with Git and agile development practices.
+
+Preferred Qualifications
+• Experience with Azure, Docker or Kubernetes.
+• Knowledge of infrastructure as code with Terraform or Bicep.
+• Exposure to distributed systems and scalability concerns.
+
+About Microsoft
+Microsoft's mission is to empower every person and every organization on the planet to achieve more. Benefits include health insurance, flexible work and learning opportunities.

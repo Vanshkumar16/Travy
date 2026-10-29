@@ -1,0 +1,14 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-multipart>=0.0.9
+python-dotenv>=1.0
+anthropic>=2.3
+openai>=1.40  # OpenAI-compatible client for Groq / Gemini / Ollama
+httpx>=0.27
+groq>=0.11  # Resume Scanner (server/groq_service.py)
+pdfplumber>=0.11  # Resume Scanner PDF text
+pypdf>=5.0
+python-docx>=1.1
+# dev: regenerates data/jd/fixtures (scripts/make_jd_fixtures.py)
+reportlab>=4.2
