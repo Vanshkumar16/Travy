@@ -1,5 +1,6 @@
 import { CandidateProfile, ExtractedSkillListInput } from "../types/contract";
 import { SAMPLE_CANDIDATES } from "../data/sampleCandidates";
+import type { OpportunityListResponse } from "../types/opportunity";
 import {
   parseCompanySkillsetDataset,
   TalentCheckCompanyDataset,
@@ -14,6 +15,30 @@ export async function fetchHealth(): Promise<boolean> {
   } catch {
     return false;
   }
+}
+
+export async function fetchOpportunities(): Promise<OpportunityListResponse> {
+  let response: Response;
+  try {
+    response = await fetch(`${API_BASE}/opportunities`, {
+      signal: AbortSignal.timeout(8000),
+    });
+  } catch {
+    throw new Error("Cannot reach the opportunities API. Start the FastAPI backend and retry.");
+  }
+
+  if (!response.ok) {
+    let detail = `${response.status} ${response.statusText}`;
+    try {
+      const body = await response.json();
+      if (typeof body?.detail === "string") detail = body.detail;
+    } catch {
+      // Keep the HTTP status as the surfaced error.
+    }
+    throw new Error(`Could not load opportunities: ${detail}`);
+  }
+
+  return response.json() as Promise<OpportunityListResponse>;
 }
 
 export async function fetchCurrentProfile(): Promise<CandidateProfile> {

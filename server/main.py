@@ -32,6 +32,11 @@ from .models import (
 from .contract_validator import validate_candidate_profile
 from .jd.router import router as jd_router
 from .skill_match import router as match_router
+from .opportunities import (
+    router as opportunities_router,
+    start_opportunity_refresh,
+    stop_opportunity_refresh,
+)
 from .storage import (
     init_storage,
     get_active_profile,
@@ -63,10 +68,16 @@ app.add_middleware(
 
 app.include_router(jd_router)
 app.include_router(match_router)
+app.include_router(opportunities_router)
 
 @app.on_event("startup")
 async def startup_event():
     init_storage()
+    start_opportunity_refresh()
+
+@app.on_event("shutdown")
+async def shutdown_event():
+    await stop_opportunity_refresh()
 
 @app.get("/api/health")
 def health_check():

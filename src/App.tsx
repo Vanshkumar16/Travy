@@ -15,6 +15,7 @@ import { Page2Extraction } from "./pages/Page2Extraction";
 import { Page3ProfileBuilder } from "./pages/Page3ProfileBuilder";
 import { Page4TalentCheck } from "./pages/Page4TalentCheck";
 import { Page5SkillMatching } from "./pages/Page5SkillMatching";
+import { PageOpportunities } from "./pages/PageOpportunities";
 import { ContractPreviewModal } from "./components/ContractPreviewModal";
 import {
   Download,
@@ -73,6 +74,7 @@ function CandidatePortalContent() {
     role3_profile: "Profile Builder",
     role4_talent_check: "Benchmarks",
     role5_matching: "Job Match",
+    opportunities: "Opportunities",
   };
 
   return (
@@ -170,6 +172,8 @@ function CandidatePortalContent() {
               onNavigateToJdExtractor={() => setActivePage("role1_jd")}
             />
           )}
+
+          {activePage === "opportunities" && <PageOpportunities />}
         </main>
       </div>
 

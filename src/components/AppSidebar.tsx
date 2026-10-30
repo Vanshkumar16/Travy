@@ -6,6 +6,7 @@ import {
   Building2,
   CheckCircle2,
   Sparkles,
+  Compass,
   ChevronLeft,
   ChevronRight,
 } from "lucide-react";
@@ -15,7 +16,8 @@ export type FlowRolePage =
   | "role2_resume"
   | "role3_profile"
   | "role4_talent_check"
-  | "role5_matching";
+  | "role5_matching"
+  | "opportunities";
 
 interface AppSidebarProps {
   activePage: FlowRolePage;
@@ -62,6 +64,12 @@ export const AppSidebar: React.FC<AppSidebarProps> = ({
       label: "Job Match",
       description: "Gap analysis",
       icon: CheckCircle2,
+    },
+    {
+      id: "opportunities" as FlowRolePage,
+      label: "Opportunities",
+      description: "Build experience",
+      icon: Compass,
     },
   ];
 

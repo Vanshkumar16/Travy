@@ -51,6 +51,9 @@ Endpoints:
 - `GET /api/contract/export` — Role 4 & Role 5 canonical handoff
 - `GET /api/contract/download` — Download `candidate_profile.json`
 - `GET /api/talent-check-bars` — Company skillset thresholds snapshot
+- `GET /api/opportunities` — Curated hackathons and competitions
+- `GET /api/opportunities?kind=hackathon&status=open&q=AI` — Filter opportunities by type, date-derived status, and search text
+- Kaggle competitions refresh every 6 hours when Kaggle API credentials are configured
 - **`POST /api/resume/extract-skills`** — Upload a resume (PDF/DOCX/TXT) and extract skills via Groq LLM
 - **`POST /api/jd/analyze`** — Role 1: upload a JD (PDF/DOCX/TXT) → skills in the shared format, with evidence and a 12-category demand profile (also `/api/jd/analyze-text`, `/api/jd/samples`)
 - **`GET /api/jd/active/contract`** — Role 1 → Role 5 handoff: the active JD's skill list in the shared format
@@ -69,6 +72,40 @@ JD Analytics design and LLM options: [docs/JD_ANALYTICS_PLAN.md](docs/JD_ANALYTI
 npm run dev
 ```
 Open [http://127.0.0.1:5173/](http://127.0.0.1:5173/)
+
+### Opportunities catalog
+
+After starting the frontend and backend, select **Opportunities** in the RADIX
+sidebar. The page reads its catalog from `GET /api/opportunities`. Available
+query parameters:
+
+| Parameter | Values | Purpose |
+| --- | --- | --- |
+| `kind` | `hackathon`, `competition` | Optional event-type filter |
+| `status` | `upcoming`, `open`, `ended` | Optional status filter, calculated from start/end dates |
+| `q` | Search text (up to 100 characters) | Searches title, organizer, description, provider, and tags |
+
+For example:
+
+```powershell
+Invoke-RestMethod "http://127.0.0.1:8000/api/opportunities?kind=competition&q=quantum"
+```
+
+The starter catalog is maintained in `data/opportunities.json`. Kaggle
+competitions are refreshed from the official Kaggle API every six hours when
+`KAGGLE_USERNAME` and `KAGGLE_KEY` are set in the backend environment. Configure
+these locally in `.env` using the API credentials from Kaggle account settings
+(see `.env.example`), then restart FastAPI. Check `sync.enabled`,
+`sync.last_success_at`, and `sync.last_error` in the `GET /api/opportunities`
+response to verify the sync. The API preserves the last successful sync snapshot
+if a refresh fails. Hackathons remain manually curated because no accessible
+official Devpost feed is configured. This is a scheduled provider sync, not
+open-web search. Recommendations compare event tags with candidate skills and
+the active analyzed job description. Users can save
+events, track planned participation, and record completed participation. These
+states are saved in browser storage, not synchronized across devices. Recording
+completion adds a hackathon to the profile or a competition to achievements.
+Verify event dates and eligibility with the linked organizer before applying.
 
 ---
 
