@@ -5,8 +5,7 @@ import {
   parseCompanySkillsetDataset,
   TalentCheckCompanyDataset,
 } from "../data/talentCheckCompanySkillsets";
-
-const API_BASE = "http://127.0.0.1:8000/api";
+import { API_BASE } from "./apiBase";
 
 export async function fetchHealth(): Promise<boolean> {
   try {
@@ -211,7 +210,7 @@ export async function extractSkillsFromResumeFile(
     if (error instanceof DOMException && error.name === "TimeoutError") {
       throw new Error("Resume extraction timed out. Retry with a smaller or text-based resume.");
     }
-    throw new Error("Cannot reach the resume extraction backend at 127.0.0.1:8000. Start the FastAPI server and retry.");
+    throw new Error(`Cannot reach the resume extraction backend at ${API_BASE}. Check the backend URL and retry.`);
   }
 
   if (!res.ok) {

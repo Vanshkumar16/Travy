@@ -4,6 +4,7 @@
  * output shape and the same rules for what counts as a match.
  */
 import { CandidateProfile, CategoryCode, Skill, SkillEvidenceSource } from "../types/contract";
+import { API_BASE } from "./apiBase";
 
 export type MatchType = "direct" | "evidence" | "implied" | "alternative" | "category";
 
@@ -35,7 +36,6 @@ export interface MatchView {
 
 type ReqSkill = Pick<Skill, "skill_name" | "category_code" | "evidence" | "confidence" | "source">;
 
-const API_BASE = "http://127.0.0.1:8000/api";
 const SOURCE_LABEL: Record<SkillEvidenceSource, string> = {
   hackathon: "Hackathon / competition",
   internship: "Work experience",

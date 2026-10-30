@@ -7,11 +7,12 @@ import {
   JdSkillListContract,
 } from "../types/jd";
 import { ExtractedJdResult, InferredSkillItem } from "./skillInferenceEngine";
+import { API_BASE } from "./apiBase";
 
-const API_BASE = "http://127.0.0.1:8000/api/jd";
+const JD_API_BASE = `${API_BASE}/jd`;
 
 async function request<T>(path: string, init?: RequestInit, timeoutMs = 90000): Promise<T> {
-  const res = await fetch(`${API_BASE}${path}`, { ...init, signal: AbortSignal.timeout(timeoutMs) });
+  const res = await fetch(`${JD_API_BASE}${path}`, { ...init, signal: AbortSignal.timeout(timeoutMs) });
   if (!res.ok) {
     let detail = `${res.status} ${res.statusText}`;
     try {
